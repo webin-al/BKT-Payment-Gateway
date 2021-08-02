@@ -2,21 +2,6 @@
 
 add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 );
 
-	$company = get_bloginfo( 'name' );
-    $logo = esc_url( wp_get_attachment_image_src( get_theme_mod( 'custom_logo' ), 'full' )[0] );
-    $address = get_option( 'woocommerce_store_address' );
-    $site_url = get_site_url();
-    $email = get_option( 'admin_email' );
-
-    $card = $_POST['MaskedPan'];
-    $authcode = $_POST['AuthCode'];
-    $transtype = $_POST['TxnType'];
-
-    $billing_name = $_POST['BillingNameSurname'];
-    $billing_email = $_POST['BillingEmail'];
-    $billing_phone = $_POST['BillingPhone'];
-    $billing_address = $_POST['BillingAddress'];
-
     function bkt_details_after_success_payment( $order_id ) {
 
         global $woocommerce;
@@ -36,20 +21,20 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
         // reduce the stock, if any
         $order->reduce_order_stock();
 
-        global $company;
-        global $logo;
-        global $address;
-        global $site_url;
-        global $email;
+    $company = get_bloginfo( 'name' );
+    $logo = esc_url( wp_get_attachment_image_src( get_theme_mod( 'custom_logo' ), 'full' )[0] );
+    $address = get_option( 'woocommerce_store_address' );
+    $site_url = get_site_url();
+    $email = get_option( 'admin_email' );
 
-        global $card;
-        global $authcode;
-        global $transtype;
+    $card = $_POST['MaskedPan'];
+    $authcode = $_POST['AuthCode'];
+    $transtype = $_POST['TxnType'];
 
-        global $billing_name;
-        global $billing_email;
-        global $billing_phone;
-        global $billing_address;
+    $billing_name = $_POST['BillingNameSurname'];
+    $billing_email = $_POST['BillingEmail'];
+    $billing_phone = $_POST['BillingPhone'];
+    $billing_address = $_POST['BillingAddress'];
 
     echo "
 
@@ -57,91 +42,91 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 
     <ul class='woocommerce-order-overview woocommerce-thankyou-order-details order_details'>
 
-	<li class='woocommerce-order-overview__order bkt'>
-	Company:
-	<strong>$company</strong></br>
-	<img src='$logo' width='100' />
-	</li>
+    <li class='woocommerce-order-overview__order bkt'>
+    Company:
+    <strong>$company</strong></br>
+    <img src='$logo' width='100' />
+    </li>
 
-	<li class='woocommerce-order-overview__order bkt'>
-	Address:
-	<strong>$address</strong>
-	</li>
+    <li class='woocommerce-order-overview__order bkt'>
+    Address:
+    <strong>$address</strong>
+    </li>
 
-	<li class='woocommerce-order-overview__order bkt'>
-	Website URL:
-	<strong>$site_url</strong>
-	</li>
+    <li class='woocommerce-order-overview__order bkt'>
+    Website URL:
+    <strong>$site_url</strong>
+    </li>
 
-	<li class='woocommerce-order-overview__order bkt'>
-	Support:
-	<strong>$email</strong>
-	</li>
-			
-	</ul>
+    <li class='woocommerce-order-overview__order bkt'>
+    Support:
+    <strong>$email</strong>
+    </li>
+            
+    </ul>
 
-	<h2 class='woocommerce-order-details__title'>Payment details</h2>
+    <h2 class='woocommerce-order-details__title'>Payment details</h2>
 
     <ul class='woocommerce-order-overview woocommerce-thankyou-order-details order_details'>
 
-	<li class='woocommerce-order-overview__order bkt'>
-	Billing Details:
-	<strong>$billing_name</strong>
-	<strong>$billing_email</strong>
-	<strong>$billing_phone</strong>
-	<strong>$billing_address</strong>
-	</li>
+    <li class='woocommerce-order-overview__order bkt'>
+    Billing Details:
+    <strong>$billing_name</strong>
+    <strong>$billing_email</strong>
+    <strong>$billing_phone</strong>
+    <strong>$billing_address</strong>
+    </li>
 
-	<li class='woocommerce-order-overview__order bkt'>
-	Transaction Type:
-	<strong>$transtype</strong>
-	</li>
+    <li class='woocommerce-order-overview__order bkt'>
+    Transaction Type:
+    <strong>$transtype</strong>
+    </li>
 
-	<li class='woocommerce-order-overview__order bkt'>
-	Authorization Code:
-	<strong>$authcode</strong>
-	</li>
+    <li class='woocommerce-order-overview__order bkt'>
+    Authorization Code:
+    <strong>$authcode</strong>
+    </li>
 
-	<li class='woocommerce-order-overview__order bkt'>
-	Last 4 digits of the card:
-	<strong>$card</strong>
-	</li>
-			
-	</ul>
+    <li class='woocommerce-order-overview__order bkt'>
+    Last 4 digits of the card:
+    <strong>$card</strong>
+    </li>
+            
+    </ul>
 
-	<p class='woocommerce-notice' style='text-decoration: underline;font-style: italic;'>
-	*Read our Terms and Conditions for cancellations or refunds.
-	</p>
+    <p class='woocommerce-notice' style='text-decoration: underline;font-style: italic;'>
+    *Read our Terms and Conditions for cancellations or refunds.
+    </p>
 
-	<hr>
+    <hr>
 
     ";
 
-	} // end if
+    } // end if
 
 }
 
-	/**
+    /**
      * Add "Print" link to Order Received page and View Order page
      */
     wp_register_style( 'bkt-css', home_url() . '/wp-content/plugins/bkt-payment-gateway/assets/css/style.css' );
 
     function bkt_print_receipt($order_id) {
 
-    	global $company;
-        global $logo;
-        global $address;
-        global $site_url;
-        global $email;
+    $company = get_bloginfo( 'name' );
+    $logo = esc_url( wp_get_attachment_image_src( get_theme_mod( 'custom_logo' ), 'full' )[0] );
+    $address = get_option( 'woocommerce_store_address' );
+    $site_url = get_site_url();
+    $email = get_option( 'admin_email' );
 
-        global $card;
-        global $authcode;
-        global $transtype;
+    $card = $_POST['MaskedPan'];
+    $authcode = $_POST['AuthCode'];
+    $transtype = $_POST['TxnType'];
 
-        global $billing_name;
-        global $billing_email;
-        global $billing_phone;
-        global $billing_address;
+    $billing_name = $_POST['BillingNameSurname'];
+    $billing_email = $_POST['BillingEmail'];
+    $billing_phone = $_POST['BillingPhone'];
+    $billing_address = $_POST['BillingAddress'];
 
         $get_data = 'OrderId='.$order_id.'&MaskedPan='.$card.'&AuthCode='.$authcode.'&TxnType='.$transtype.'&BillingNameSurname='.$billing_name.'&BillingEmail='.$billing_email.'&BillingPhone='.$billing_phone.'&BillingAddress='.$billing_address;
         $print_url = home_url().'/wp-content/plugins/bkt-payment-gateway/view/pdf-receipt.php?'.$get_data;
