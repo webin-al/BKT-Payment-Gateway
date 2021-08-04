@@ -24,10 +24,16 @@ $mpdf = new \Mpdf\Mpdf();
     $billing_phone = $_POST['BillingPhone'];
     $billing_address = $_POST['BillingAddress'];
 
+    $total = $_POST['Total'];
+    $currency = $_POST['Currency'];
+
     if ($_POST['OrderId']) {
 
 $mpdf->SetTitle("Order-$order_id");
 $mpdf->WriteHTML("
+
+	<img src='$logo' width='200' />
+	<p>Payment receipt for your order</p> <br />
 
 	<h2>Company details</h2>
 
@@ -81,6 +87,13 @@ $mpdf->WriteHTML("
 	Last 4 digits of the card:
 	<strong>$card</strong>
 	</li>
+
+	<br>
+
+	<li>
+	<strong>Total:</strong>
+	<strong>$total ( $currency )</strong>
+	</li>
 			
 	</ul>
 
@@ -89,8 +102,6 @@ $mpdf->WriteHTML("
 	</p>
 
 	<hr>
-
-	<img src='$logo' width='200' />
 
 	");
 

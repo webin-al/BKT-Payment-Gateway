@@ -102,6 +102,19 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 
     ";
 
+    $rawpost = print_r($_POST, true);
+
+	$logfile = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/post.log-'.$order_id;
+	$path = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/';
+	if (!file_exists($path)) {
+	    mkdir($path, 0777, true);
+	}
+	$fh = fopen($logfile,'a') or die("can't open log file");
+	fwrite($fh, "DATE: ".date('l jS \of F Y h:i:s A')."\r\n");
+	fwrite($fh, "\r\nRAW POST: =\t ".$rawpost."\r\n");
+	fwrite($fh, "-------------------------------------------------------\r\n");
+	fclose($fh);
+
 	} // end if
 
 }
@@ -112,6 +125,10 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
     wp_register_style( 'bkt-css', home_url() . '/wp-content/plugins/bkt-payment-gateway/assets/css/style.css' );
 
     function bkt_print_receipt($order_id) {
+
+    global $woocommerce;
+    $order = new WC_Order( $order_id );
+    $order_data = $order->get_data(); // The Order data
 
     $company = get_bloginfo( 'name' );
     $logo = esc_url( wp_get_attachment_image_src( get_theme_mod( 'custom_logo' ), 'full' )[0] );
@@ -127,6 +144,9 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
     $billing_email = $_POST['BillingEmail'];
     $billing_phone = $_POST['BillingPhone'];
     $billing_address = $_POST['BillingAddress'];
+
+    $total = $_POST['PurchAmount'];
+    $currency = $order_data['currency'];
 
         $print_url = home_url().'/wp-content/plugins/bkt-payment-gateway/view/pdf-receipt.php';
 
@@ -144,6 +164,8 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 			 <input type="hidden" name="BillingEmail" value="'.$billing_email.'">
 			 <input type="hidden" name="BillingPhone" value="'.$billing_phone.'">
 			 <input type="hidden" name="BillingAddress" value="'.$billing_address.'">
+			 <input type="hidden" name="Total" value="'.$total.'">
+			 <input type="hidden" name="Currency" value="'.$currency.'">
 			 <button type="submit" id="bkt-pdf-button">PDF</button>
 			</form>';
         }
