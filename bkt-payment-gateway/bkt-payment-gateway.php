@@ -123,7 +123,7 @@ function bkt_gateway_class() {
     add_action( 'woocommerce_update_options_payment_gateways_' . $this->id, array( $this, 'process_admin_options' ) );
 
     // Go to BKT API
-    add_action( 'woocommerce_receipt_' . $this->id, array( $this, 'receipt_page' ) );
+    add_action( 'woocommerce_receipt_' . $this->id, array( $this, 'bkt_pay_page' ) );
 
     // include patch to skip login in order pay page ( pay the order without account )
     require_once ABSPATH . '/wp-content/plugins/bkt-payment-gateway/includes/skip-login.php';
@@ -351,7 +351,7 @@ function bkt_gateway_class() {
             /*
          * We're taking the customer to the hidden POST form
          */
-        function receipt_page( $order ) {
+        function bkt_pay_page( $order ) {
 
             echo '<p>' . __( $this->get_option('pay_now_description', 'Your order is now pending. Click <strong>Pay Now</strong> button below to complete the payment.'), 'woocommerce' ) . '</p>';
 
