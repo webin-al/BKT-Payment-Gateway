@@ -294,7 +294,7 @@ function bkt_gateway_class() {
             if ( $this->description ) {
                 // you can instructions for test mode, I mean test card numbers etc.
                 if ( $this->testmode ) {
-                    $this->description .= '<br /><br /> TEST MODE ENABLED!';
+                    $this->description .= '<br /><br /> <p style="color:red;">TEST MODE ENABLED!</p>';
                     $this->description  = trim( $this->description );
                 }
 

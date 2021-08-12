@@ -88,7 +88,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 	</li>
 
 	<li class='woocommerce-order-overview__order bkt'>
-	Digits of the card used:
+	Card used:
 	<strong>$card</strong>
 	</li>
 			
