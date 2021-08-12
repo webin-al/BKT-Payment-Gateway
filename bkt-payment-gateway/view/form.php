@@ -73,8 +73,7 @@ if ( $this->get_option( 'testmode' ) == "yes" && $_POST['ProcReturnCode'] ) {
     <p>Order ID: ' . $_POST['OrderId'] . '</p>';
     echo '<p>TxnResult: ' . $_POST['TxnResult'] . '</p>';
     echo '<p>Error Message: ' . $_POST['ErrMsg'] . '</p>';
-    echo '<p>Return Code: ' . $_POST['ProcReturnCode'] . '</p>';
-    echo '<p>Error Data: ' . $_POST['ErrorData'] . '</p><br>';
+    echo '<p>Return Code: ' . $_POST['ProcReturnCode'] . '</p><br>';
     echo '<strong>*View more in Console->Network</strong>';
 }
 ?>
