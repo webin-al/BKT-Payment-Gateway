@@ -27,7 +27,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
     $site_url = get_site_url();
     $email = get_option( 'admin_email' );
 
-    $card = $_POST['MaskedPan'];
+    $card = $_POST['CardMask'];
     $authcode = $_POST['AuthCode'];
     $transtype = $_POST['TxnType'];
 
@@ -88,7 +88,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 	</li>
 
 	<li class='woocommerce-order-overview__order bkt'>
-	Last 4 digits of the card:
+	Digits of the card used:
 	<strong>$card</strong>
 	</li>
 			
@@ -136,7 +136,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
     $site_url = get_site_url();
     $email = get_option( 'admin_email' );
 
-    $card = $_POST['MaskedPan'];
+    $card = $_POST['CardMask'];
     $authcode = $_POST['AuthCode'];
     $transtype = $_POST['TxnType'];
 
@@ -157,7 +157,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
             echo '<a href="javascript:window.print()" id="bkt-print-button" style="margin-right:10px;">Print</a>';
             echo '<form method="post" action="'.$print_url.'" target="_blank">
             <input type="hidden" name="OrderId" value="'.$order_id.'">
-			 <input type="hidden" name="MaskedPan" value="'.$card.'">
+			 <input type="hidden" name="CardMask" value="'.$card.'">
 			 <input type="hidden" name="AuthCode" value="'.$authcode.'">
 			 <input type="hidden" name="TxnType" value="'.$transtype.'">
 			 <input type="hidden" name="BillingNameSurname" value="'.$billing_name.'">

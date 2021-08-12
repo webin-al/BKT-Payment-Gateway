@@ -5,14 +5,15 @@
               $TxnType= "Auth";                                                                          
               $InstallmentCount= "0";                                                                    
               $OkUrl = $order->get_checkout_order_received_url();
-              $FailUrl = $order->get_checkout_payment_url( $on_checkout = false );
-              $OrderId = $order_id;
-              $PurchAmount = $order->total; 
+              $FailUrl = wc_get_checkout_url().'order-pay/'.$order_id.'/?key='.$order->get_order_key();
+              $OrderId = rand(10000,300000).'_'.$order_id;
+              $PurchAmount = $order->total;
 
               $Rnd = microtime(); 
               $hashstr = $MbrId.$OrderId.$PurchAmount.$OkUrl.$FailUrl.$TxnType.$InstallmentCount.$Rnd.$MerchantPass;
               $Hash = base64_encode(pack('H*',sha1($hashstr)));
 
+                // required parameters to POST
                 $args = array(
      
                 "MbrId" => $this->get_option( 'mbrid' ),
@@ -25,9 +26,9 @@
                 "InstallmentCount" => "0",
                 "Currency" => $this->get_option( 'currency' ),
                 "OkUrl" => $order->get_checkout_order_received_url(),
-                "FailUrl" => $order->get_checkout_payment_url( $on_checkout = false ),
-                "OrderId" => $order_id,
-                "OrgOrderId" => $order_id,
+                "FailUrl" => wc_get_checkout_url().'order-pay/'.$order_id.'/?key='.$order->get_order_key(),
+                "OrderId" => $OrderId,
+                "OrgOrderId" => '',
                 "PurchAmount" => $order->total,
                 "Lang" => $this->get_option( 'lang', 'EN' ),
 

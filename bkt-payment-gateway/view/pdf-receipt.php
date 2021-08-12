@@ -13,7 +13,7 @@ $mpdf = new \Mpdf\Mpdf();
     $site_url = get_site_url();
     $email = get_option( 'admin_email' );
 
-    $card = $_POST['MaskedPan'];
+    $card = $_POST['CardMask'];
     $authcode = $_POST['AuthCode'];
     $transtype = $_POST['TxnType'];
 
@@ -84,7 +84,7 @@ $mpdf->WriteHTML("
 	</li>
 
 	<li>
-	Last 4 digits of the card:
+	Digits of the card used:
 	<strong>$card</strong>
 	</li>
 

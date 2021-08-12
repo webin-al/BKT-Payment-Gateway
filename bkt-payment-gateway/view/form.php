@@ -48,7 +48,7 @@ if($_POST['ProcReturnCode'] && $order->get_payment_method() == "bkt_payment_gate
              <input type="hidden" name="BillingCountry" value="<?php echo $args['BillingCountry'] ?>">
              <input type="hidden" name="Rnd" value="<?php echo $args['Rnd'] ?>">
              <input type="hidden" name="Hash" value="<?php echo $args['Hash'] ?>">
-             <input type="submit" name="submit" id="post-button" value="<?php echo $this->get_option('pay_now_button', 'Pay Now') ?>">
+             <button type="submit" name="submit" id="post-button" value="" style="width:100%;"><?php echo $this->get_option('pay_now_button', 'Pay Now') ?></button>
  </form>
 
 <?php
