@@ -104,7 +104,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 
     $rawpost = print_r($_POST, true);
 
-	$logfile = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/post.log-'.$order_id.'.txt';
+	$logfile = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/success_post.log-'.$order_id.'.txt';
 	$path = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/';
 	if (!file_exists($path)) {
 	    mkdir($path, 0777, true);
