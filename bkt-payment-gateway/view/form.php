@@ -59,10 +59,10 @@ if ( $this->get_option( 'testmode' ) == "yes" && $_POST['ProcReturnCode'] ) {
     <br><br>
     <p>Order ID: ' . $_POST['OrderId'] . '</p>';
     echo '<p>TxnResult: ' . $_POST['TxnResult'] . '</p>';
-    echo '<p>Error Data: ' . $_POST['ErrorData'] . '</p>';
     echo '<p>Error Message: ' . $_POST['ErrMsg'] . '</p><br>';
+    echo '<p>Return Code: ' . $_POST['ProcReturnCode'] . '</p><br>';
 
-    echo '<p>Hash: ' . $_POST['Hash'] . '</p>';
-    echo '<p>Response Hash: ' . $_POST['ResponseHash'] . '</p>';
+    
+    echo '<p>Error Data: ' . $_POST['ErrorData'] . '</p>';
 }
 ?>
