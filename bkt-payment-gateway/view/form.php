@@ -8,6 +8,19 @@ if($_POST['ProcReturnCode'] && $order->get_payment_method() == "bkt_payment_gate
 
     echo '<br><strong>'.$this->get_option('payment_failed', 'Payment unsuccessful, please try again or contact us!').'</strong><br>';
     echo 'API Error: ( ' . $_POST['ProcReturnCode'] . ' ) ' . $_POST['ErrMsg'].'<br><br>';
+
+    $rawpost = print_r($_POST, true);
+
+    $logfile = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/post.log-'.$order_id.'.txt';
+    $path = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/';
+    if (!file_exists($path)) {
+        mkdir($path, 0777, true);
+    }
+    $fh = fopen($logfile,'a') or die("can't open log file");
+    fwrite($fh, "DATE: ".date('l jS \of F Y h:i:s A')."\r\n");
+    fwrite($fh, "\r\nRAW POST: =\t ".$rawpost."\r\n");
+    fwrite($fh, "-------------------------------------------------------\r\n");
+    fclose($fh);
 }
 
 ?>
