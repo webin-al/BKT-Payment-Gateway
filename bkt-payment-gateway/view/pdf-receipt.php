@@ -12,7 +12,8 @@ $mpdf = new \Mpdf\Mpdf();
     $address = get_option( 'woocommerce_store_address' );
     $site_url = get_site_url();
     $email = get_option( 'admin_email' );
-
+	
+	$date = $_POST['TransactionDate'];
     $card = $_POST['CardMask'];
     $authcode = $_POST['AuthCode'];
     $transtype = $_POST['TxnType'];
@@ -64,9 +65,16 @@ $mpdf->WriteHTML("
 	<h2>Payment details</h2>
 
     <ul>
-
+	
 	<li>
-	Billing Details for Order #$order_id:
+	Transaction Date:
+	<strong>$date</strong>
+	</li>
+	
+	<br>
+	
+	<li>
+	Billing Details for Order #$order_id
 	<br><strong>$billing_name</strong>
 	<br><strong>$billing_email</strong>
 	<br><strong>$billing_phone</strong>

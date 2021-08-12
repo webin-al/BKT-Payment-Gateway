@@ -1,5 +1,11 @@
 /* CSS for print view */
 
+@media only screen and (max-width: 768px) {
+    #bkt-print-button {
+        display: none !important;
+    }
+}
+
 #bkt-print-button {
     display: inline-block;
     text-decoration: none;

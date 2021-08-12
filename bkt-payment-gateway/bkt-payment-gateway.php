@@ -41,6 +41,7 @@ function bkt_add_gateway_class_links( $links ) {
 
   $plugin_links = array(
     '<a href="' . admin_url( 'admin.php?page=wc-settings&tab=checkout&section=bkt_payment_gateway' ) . '">' . __( 'Settings', 'bkt_add_gateway_class' ) . '</a>',
+    '<a href="' . home_url( 'wp-content/plugins/bkt-payment-gateway/logs/' ) . '" target="_blank">' . __( 'View Logs', 'bkt_add_gateway_class' ) . '</a>'
 
   );
 

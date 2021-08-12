@@ -104,7 +104,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 
     $rawpost = print_r($_POST, true);
 
-	$logfile = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/post.log-'.$order_id;
+	$logfile = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/post.log-'.$order_id.'.txt';
 	$path = $_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/logs/';
 	if (!file_exists($path)) {
 	    mkdir($path, 0777, true);
@@ -135,7 +135,9 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
     $address = get_option( 'woocommerce_store_address' );
     $site_url = get_site_url();
     $email = get_option( 'admin_email' );
-
+	
+	$bkt_order_id = $_POST['OrderId'];
+	$date = $order->get_date_completed()->date("F j, Y");
     $card = $_POST['CardMask'];
     $authcode = $_POST['AuthCode'];
     $transtype = $_POST['TxnType'];
@@ -156,7 +158,8 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 
             echo '<a href="javascript:window.print()" id="bkt-print-button" style="margin-right:10px;">Print</a>';
             echo '<form method="post" action="'.$print_url.'" target="_blank">
-            <input type="hidden" name="OrderId" value="'.$order_id.'">
+            <input type="hidden" name="OrderId" value="'.$bkt_order_id.'">
+			<input type="hidden" name="TransactionDate" value="'.$date.'">
 			 <input type="hidden" name="CardMask" value="'.$card.'">
 			 <input type="hidden" name="AuthCode" value="'.$authcode.'">
 			 <input type="hidden" name="TxnType" value="'.$transtype.'">
