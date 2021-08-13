@@ -8,6 +8,7 @@ require_once $path . '/wp-content/plugins/bkt-payment-gateway/vendor/autoload.ph
 $mpdf = new \Mpdf\Mpdf();
 
 	$company = get_bloginfo( 'name' );
+	$nipt = $_POST['Nipt'];
     $logo = esc_url( wp_get_attachment_image_src( get_theme_mod( 'custom_logo' ), 'full' )[0] );
     $address = get_option( 'woocommerce_store_address' );
     $site_url = get_site_url();
@@ -42,7 +43,8 @@ $mpdf->WriteHTML("
 
 	<li>
 	Company:
-	<strong>$company</strong></br>
+	<strong>$company</strong><br>
+	NIPT/NUIS: <strong>$nipt</strong>
 	</li>
 
 	<li>

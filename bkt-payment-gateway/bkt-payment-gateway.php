@@ -106,6 +106,7 @@ function bkt_gateway_class() {
     $this->description = $this->get_option( 'description' );
     $this->enabled = $this->get_option( 'enabled' );
     $this->testmode = $this->get_option( 'testmode' );
+    $this->nipt = $this->get_option( 'nipt' );
     $this->apiuser = $this->get_option( 'apiuser' );
     $this->apipassword = $this->get_option( 'apipassword' );
     $this->posturl = $this->get_option( 'posturl' );
@@ -175,6 +176,13 @@ function bkt_gateway_class() {
             'description' => 'Working with test API?<br/>
                               Also enables debuging to view API responses in frontend ( when payment fails )',
             'default'     => 'yes',
+        ),
+        'nipt' => array(
+            'title'       => 'NIPT',
+            'type'        => 'text',
+            'description' => 'Company NIPT/NUIS',
+            'default'     => '',
+            'desc_tip'    => true,
         ),
         'apiuser' => array(
             'title'       => 'API User/User Code',

@@ -22,6 +22,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
         $order->reduce_order_stock();
 
     $company = get_bloginfo( 'name' );
+    $nipt = get_option('woocommerce_bkt_payment_gateway_settings')['nipt'];
     $logo = esc_url( wp_get_attachment_image_src( get_theme_mod( 'custom_logo' ), 'full' )[0] );
     $address = get_option( 'woocommerce_store_address' );
     $site_url = get_site_url();
@@ -44,8 +45,9 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
 
 	<li class='woocommerce-order-overview__order bkt'>
 	Company:
-	<strong>$company</strong></br>
-	<img src='$logo' width='100' />
+	<strong>$company</strong>
+	<img src='$logo' width='100' /><br>
+	<strong>$nipt</strong>
 	</li>
 
 	<li class='woocommerce-order-overview__order bkt'>
@@ -131,6 +133,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
     $order_data = $order->get_data(); // The Order data
 
     $company = get_bloginfo( 'name' );
+    $nipt = get_option('woocommerce_bkt_payment_gateway_settings')['nipt'];
     $logo = esc_url( wp_get_attachment_image_src( get_theme_mod( 'custom_logo' ), 'full' )[0] );
     $address = get_option( 'woocommerce_store_address' );
     $site_url = get_site_url();
@@ -159,6 +162,7 @@ add_action( 'woocommerce_thankyou', 'bkt_details_after_success_payment', 10, 1 )
             echo '<a href="javascript:window.print()" id="bkt-print-button" style="margin-right:10px;">Print</a>';
             echo '<form method="post" action="'.$print_url.'" target="_blank">
             <input type="hidden" name="OrderId" value="'.$bkt_order_id.'">
+            <input type="hidden" name="Nipt" value="'.$nipt.'">
 			<input type="hidden" name="TransactionDate" value="'.$date.'">
 			 <input type="hidden" name="CardMask" value="'.$card.'">
 			 <input type="hidden" name="AuthCode" value="'.$authcode.'">
