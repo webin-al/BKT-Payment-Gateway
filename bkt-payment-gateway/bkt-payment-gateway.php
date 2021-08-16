@@ -301,8 +301,8 @@ function bkt_gateway_class() {
  
             // ok, let's display some description before the payment form
             if ( $this->description ) {
-                // you can instructions for test mode, I mean test card numbers etc.
-                if ( $this->testmode ) {
+                // only in test mode
+                if ( $this->get_option( 'testmode' ) == "yes" ) {
                     $this->description .= '<br /><br /> <p style="color:red;">TEST MODE ENABLED!</p>';
                     $this->description  = trim( $this->description );
                 }

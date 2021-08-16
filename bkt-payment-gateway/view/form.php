@@ -7,7 +7,7 @@ $order = new WC_Order( $order_id );
 if($_POST['ProcReturnCode'] && $order->get_payment_method() == "bkt_payment_gateway") {
 
     echo '<br><strong>'.$this->get_option('payment_failed', 'Payment unsuccessful, please try again or contact us!').'</strong><br>';
-    echo 'API Error: ( ' . $_POST['ProcReturnCode'] . ' ) ' . $_POST['ErrMsg'].'<br><br>';
+    echo 'Error: ( ' . $_POST['ProcReturnCode'] . ' ) ' . $_POST['ErrMsg'].'<br><br>';
 
     $rawpost = print_r($_POST, true);
 
