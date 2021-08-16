@@ -208,7 +208,7 @@ function bkt_gateway_class() {
         'mbrid' => array(
             'title'       => 'MBR ID',
             'type'        => 'number',
-            'description' => 'Mbr Id supplied from the bank',
+            'description' => 'Mbr Id supplied from the bank, usually is 9',
             'default'     => '9',
             'desc_tip'    => true,
         ),
