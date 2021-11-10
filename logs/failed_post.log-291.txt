@@ -1,0 +1,247 @@
+DATE: Wednesday 1st of September 2021 06:52:06 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 01.09.2021 21:52:03
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 292895_291
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 500.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/291/?key=wc_order_f9UeziJxFBteL
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/291/?key=wc_order_f9UeziJxFBteL
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => 08AFTsxb1a928KJh5vM9f0tbEt0=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.61758400 1630522250
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/291/?key=wc_order_f9UeziJxFBteL
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 37.162.43.119
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Pierino Castiglia
+    [ShippingEmail] => gruppo.h2o.impianti@gmail.com
+    [ShippingAddress] => via Seriola 30
+    [ShippingCountry] => IT
+    [ShippingCity] => OSPITALETTO
+    [ShippingTown] => BS
+    [ShippingZipCode] => 25035
+    [ShippingPhone] => 3425852920
+    [ShippingCompanyName] => gruppo h2o
+    [BillingNameSurname] => Pierino Castiglia
+    [BillingEmail] => gruppo.h2o.impianti@gmail.com
+    [BillingAddress] => via Seriola 30
+    [BillingCountry] => IT
+    [BillingCity] => OSPITALETTO
+    [BillingTown] => BS
+    [BillingZipCode] => 25035
+    [BillingPhone] => 3425852920
+    [BillingCompanyName] => gruppo h2o
+    [__VIEWSTATE] => L6hyu6yBw62OT5SQYkfgjf99XKVqvF1OeRubgbBoQjOkW4No+nlCe0batxDvuN8U4L99NQDOqWuez37GUOy+1VMp94FrCBF1iCLCHT59M9BArgUtSbO4nTwGlK7xwshD7wOJBL33zSfUwM8Mh+kE9vklPZb9NtNJCORY2qaemeAEC+KTjkcoeE1uCrd4FMpNYloRJL9tYMjzQilwGANLOGi0xdbWEspo4Ywp1a6WvoiYyaQaOqs6SUobMsxNCrLjgySKTaz+uyJWCf5v2xjcw+SyQSDEldAUOFcEYhWxo1bLZEavt+XX3itPjEpCkdZWYSi64ls8jdB0Fx8czLh7mW7B0NxkfN76EpJ9/1y7kGnZfgYtNg84rEMuopFrhjLchnp1aU1KxCdGkELDEi+9W9r4EdHtnNYhAZI2yzI4wHODz7mfX3m/QyoTWXFbzdbNs6sV1OsoJ818ZRKh/W1OL1Be6/jQMwYPFbphH3p3Dn8xTXjl72X5si85Wf1qfYCQAKEkv4vOO4QrNnlaxDsaqBBdK2WbBcYm1iLWTdt2rdwsrTHQIepmuJiwbogd1bwco3WFoKegdBYPNw4rBtfTArmtF497wRzBXDg6Ay+iQo+UBr4e+femdsSA5n6NgDfhCxMuBXd1lP0UFhR+hnHcBbOkCgRgzX8t5Yhx2Ows/lQg/uSVUw7nsN1ApccGV8Bj+r0JdSy+TE0pXxlHkaIxKCW8R9LvCd0/Ey1YWsfYsFO6neBJFgNj9TBN8YZYTSZUgFnbWQ4NMqFirlb8ZlqmyGvGNWQhvV/murQ2eMIsBnxclFPwse8Y5NmzzWMSyrbsh+iIRM3hJsi42Od72V6dREUxj84G2/b6d3f9I41jkAc=
+)
+
+-------------------------------------------------------
+DATE: Wednesday 1st of September 2021 06:52:49 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000132023893
+    [TransactionDate] => 01.09.2021 21:52:48
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 34836_291
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 500.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/291/?key=wc_order_f9UeziJxFBteL
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/291/?key=wc_order_f9UeziJxFBteL
+    [PayerTxnId] => MjAyMTA5MDEyMTUyMjA2Mzc2NjE=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBAQ7sQYA3kAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => 4xWLcjalQ0jwPybcyBrReyA3VzM=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.56827300 1630522326
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => GRUPPO H2O
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => N
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Limit Yetersiz
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 124420684083
+    [ProcReturnCode] => 51
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/291/?key=wc_order_f9UeziJxFBteL
+    [ErrorData] => 
+    [BatchNo] => 7
+    [VoidDate] => 
+    [CardMask] => 522675******7004
+    [ReqId] => 24408158
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210901
+    [SysDate] => 20210901
+    [F11] => 684083
+    [F37] => 124420684083
+    [RRN] => 124420684083
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 10771
+    [BankingElapsedTime] => 1365
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 10
+    [MpiElapsedTime] => 27146
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 37.162.43.119
+    [ResponseRnd] => PF637661299688250621
+    [ResponseHash] => Os2ykO7K5u28iORjtFUC9TzKHjM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Pierino Castiglia
+    [ShippingEmail] => gruppo.h2o.impianti@gmail.com
+    [ShippingAddress] => via Seriola 30
+    [ShippingCountry] => IT
+    [ShippingCity] => OSPITALETTO
+    [ShippingTown] => BS
+    [ShippingZipCode] => 25035
+    [ShippingPhone] => 3425852920
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => gruppo h2o
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Pierino Castiglia
+    [BillingEmail] => gruppo.h2o.impianti@gmail.com
+    [BillingAddress] => via Seriola 30
+    [BillingCountry] => IT
+    [BillingCity] => OSPITALETTO
+    [BillingTown] => BS
+    [BillingZipCode] => 25035
+    [BillingPhone] => 3425852920
+    [BillingNationalId] => 
+    [BillingCompanyName] => gruppo h2o
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

@@ -1,0 +1,122 @@
+DATE: Thursday 28th of October 2021 02:19:17 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 28.10.2021 17:19:14
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 281170_529
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 300.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/529/?key=wc_order_5R6S9u8s4Hfo2
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/529/?key=wc_order_5R6S9u8s4Hfo2
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => b2tN8YvINA1OHToXc8nnW76omh4=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.40035500 1635430627
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/529/?key=wc_order_5R6S9u8s4Hfo2
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.68.204.3
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Angelo Massaro
+    [ShippingEmail] => angelolafenicesrl@gmail.com
+    [ShippingAddress] => Grigna 2 
+    [ShippingCountry] => AL
+    [ShippingCity] => Nova milanese
+    [ShippingTown] => Monza
+    [ShippingZipCode] => 20835
+    [ShippingPhone] => 3892867415
+    [ShippingCompanyName] => Fenicesrls
+    [BillingNameSurname] => Angelo Massaro
+    [BillingEmail] => angelolafenicesrl@gmail.com
+    [BillingAddress] => Grigna 2 
+    [BillingCountry] => AL
+    [BillingCity] => Nova milanese
+    [BillingTown] => Monza
+    [BillingZipCode] => 20835
+    [BillingPhone] => 3892867415
+    [BillingCompanyName] => Fenicesrls
+    [__VIEWSTATE] => zXPm8neObAxo9FIPWvWizmD5zExJ/+qsnPtqf51KRrspP6LenY6iVFXzhN3Y5Kj3AmbqnW+XSmNs08vff0dTD7Sw+Bv7u3N27A9SNbyN0wkIGHJq+CcGDD0H3doHQriK/wqQ8vGOOx83eexJHAvVAD+dXoIvwQ7p8FxqSQKgEx3BQ2WIHkBpWxHTzGsXWNvyufH/HkvVU+wQbaX+1eRGeywvP0/GOCx5Vcs91PaMwsTetkL5f7GRdhoQKXdUuAhdKBCFOxnnzW0yOCESxrX7WNYOKoSrC4hyAeEpkKVef3KXkjmW4usEspJZ1gXMuDYACg3W2AAD6c9Vk5DXOV6xDsaBUF2Hkl4x+5C9WSfIvD9r8MPJZWN2XhOzjYtLILTWgSsppDRMRCHlHbCmahmRLQ5pNJD96D1tQCTuYJpEBAFhfbz85KwL/IcbWgCZi3R2caExc82RPUjwCumQJpTxwrqDh9EMSzXhzthKF/evLp7eYE5kKjMIog/RZRirfj2VLmygrmAr/0DPxf9bRsdta4GEvAQQ8gQHH7yyCFoEsqqOuBY/c59SgrZUbQq1+cMhY27Sz9iZMcKDO0qVYyeE4x+DXbSn9Zj4sxuyOrnzYJk78/wZs54MueHlUFsFdAl94jOu2/I/2yRqfwXK82CRHVv8jMpGkg6CyGB8AyZ3nXwC+A/naL0+unGZ9ahq/LMK/48BgWpPLnjsIMOKqQm82hQ6PxiL7C8Qz0GWycY+iESgP5kLB3cc21e6BoDPFrsf56QPooCa+hyEKMOgo2IRiIak2EWQkC7A3YJmTyX/DBwYw7BqNXMc1aoKndvloWD4RmtKPw==
+)
+
+-------------------------------------------------------

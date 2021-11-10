@@ -1,0 +1,127 @@
+DATE: Monday 27th of September 2021 07:13:53 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133404242
+    [TransactionDate] => 27.09.2021 22:13:50
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 18062_366
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 1300.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/366/?key=wc_order_fR1bvO0eQu9ly
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/366/?key=wc_order_fR1bvO0eQu9ly
+    [PayerTxnId] => MjAyMTA5MjcyMjEyNTE2Mzc2ODM=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => 19/zfxdsXuEhQlaH+M6Y6laBH/o=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => V
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.67797100 1632769842
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => CRISTIANO BORMOLINI
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/366/?key=wc_order_fR1bvO0eQu9ly
+    [ErrorData] => Name: ShippingCity Value : Sant\'omobono terme Name: BillingCity Value : Sant\'omobono terme
+    [BatchNo] => 22
+    [VoidDate] => 
+    [CardMask] => 481000******4582
+    [ReqId] => 24553044
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210927
+    [SysDate] => 20210927
+    [F11] => 828969
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 116243
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 5
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => V
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/366/?key=wc_order_fR1bvO0eQu9ly
+    [RequestClientIp] => 37.161.6.167
+    [ResponseRnd] => PF637683775691012694
+    [ResponseHash] => sQMwFp98j2ZZ9ZXoQnWi0NDsCD4=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Cristiano Bormolini
+    [ShippingEmail] => cristianobormolini@yahoo.jt
+    [ShippingAddress] => Vittorio Veneto 6
+    [ShippingCountry] => IT
+    [ShippingCity] => Sant/omobono terme
+    [ShippingTown] => BG
+    [ShippingZipCode] => 24038
+    [ShippingPhone] => 3457331890
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Cristiano Bormolini
+    [BillingEmail] => cristianobormolini@yahoo.jt
+    [BillingAddress] => Vittorio Veneto 6
+    [BillingCountry] => IT
+    [BillingCity] => Sant/omobono terme
+    [BillingTown] => BG
+    [BillingZipCode] => 24038
+    [BillingPhone] => 3457331890
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

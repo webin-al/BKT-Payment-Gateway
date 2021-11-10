@@ -1,0 +1,127 @@
+DATE: Wednesday 22nd of September 2021 07:39:20 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133173458
+    [TransactionDate] => 22.09.2021 22:39:17
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 94751_348
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 85.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/348/?key=wc_order_MOeHF2U4vzjaf
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/348/?key=wc_order_MOeHF2U4vzjaf
+    [PayerTxnId] => MjAyMTA5MjIyMjM4NDU2Mzc2Nzk=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => L8xz7uihOevamd1tZpNG0GlVkPw=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.80129600 1632339435
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => ARIEL TEBALDI
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/348/?key=wc_order_MOeHF2U4vzjaf
+    [ErrorData] => 
+    [BatchNo] => 18
+    [VoidDate] => 
+    [CardMask] => 524694******1280
+    [ReqId] => 24528553
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210922
+    [SysDate] => 20210922
+    [F11] => 804478
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 83161
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 6
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.18.215.158
+    [ResponseRnd] => PF637679471241624118
+    [ResponseHash] => WGvAWAJLgr1Tp3h3QwwD87JR7rM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Armando Sessi
+    [ShippingEmail] => armyamministrazione@libero.it
+    [ShippingAddress] => Via 20 settembre 99
+    [ShippingCountry] => IT
+    [ShippingCity] => Crevalcore
+    [ShippingTown] => BO
+    [ShippingZipCode] => 40014
+    [ShippingPhone] => 3200971104
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Multiservice di sessi armando
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Armando Sessi
+    [BillingEmail] => armyamministrazione@libero.it
+    [BillingAddress] => Via 20 settembre 99
+    [BillingCountry] => IT
+    [BillingCity] => Crevalcore
+    [BillingTown] => BO
+    [BillingZipCode] => 40014
+    [BillingPhone] => 3200971104
+    [BillingNationalId] => 
+    [BillingCompanyName] => Multiservice di sessi armando
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

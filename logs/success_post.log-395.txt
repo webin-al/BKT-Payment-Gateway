@@ -1,0 +1,127 @@
+DATE: Tuesday 5th of October 2021 12:33:07 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133802152
+    [TransactionDate] => 05.10.2021 15:33:03
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 293950_395
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 400.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/395/?key=wc_order_7LPih4wbHkjqu
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/395/?key=wc_order_7LPih4wbHkjqu
+    [PayerTxnId] => MjAyMTEwMDUxNTMyMjE2Mzc2OTA=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAABOfBgEAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => neA8HChtlo2zEEeWHVjQWV5/5ss=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.55168900 1633436903
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => VITALI DANIELE
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 673129
+    [HostRefNum] => 127814871575
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/395/?key=wc_order_7LPih4wbHkjqu
+    [ErrorData] => 
+    [BatchNo] => 30
+    [VoidDate] => 
+    [CardMask] => 533317******0763
+    [ReqId] => 24595650
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211005
+    [SysDate] => 20211005
+    [F11] => 871575
+    [F37] => 127814871575
+    [RRN] => 127814871575
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 233441
+    [BankingElapsedTime] => 1191
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 40617
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/395/?key=wc_order_7LPih4wbHkjqu
+    [RequestClientIp] => 151.34.201.69
+    [ResponseRnd] => PF637690447833269169
+    [ResponseHash] => BS7TuIOtTnKJJ2UNK7hES3Ry93o=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Daniele Vitali
+    [ShippingEmail] => studioaxer@yahoo.it
+    [ShippingAddress] => Oberdan 9
+    [ShippingCountry] => IT
+    [ShippingCity] => Lissone
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20851
+    [ShippingPhone] => 3457229914
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Daniele Vitali
+    [BillingEmail] => studioaxer@yahoo.it
+    [BillingAddress] => Oberdan 9
+    [BillingCountry] => IT
+    [BillingCity] => Lissone
+    [BillingTown] => MB
+    [BillingZipCode] => 20851
+    [BillingPhone] => 3457229914
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

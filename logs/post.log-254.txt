@@ -1,0 +1,882 @@
+DATE: Thursday 12th of August 2021 03:05:57 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434725
+    [TransactionDate] => 12.08.2021 18:05:55
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 266459_254
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 21.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/254/?key=wc_order_5t73MR0G4dueu
+    [PayerTxnId] => MjAyMTA4MTIxODA1NDg2Mzc2NDM=
+    [PayerAuthenticationCode] => jIIW7vL3jRZWCBEG+akVAVEAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => LZkScm/nBsF/XAq1xj7Esz2WNmk=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 276096,77
+    [InstallmentCount] => 0
+    [Rnd] => 0.53694600 1628780735
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => TEST CARD
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandı
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 062250
+    [HostRefNum] => 122417935112
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [ErrorData] => 
+    [BatchNo] => 1008
+    [VoidDate] => 
+    [CardMask] => 543723******1336
+    [ReqId] => 623988
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210812
+    [SysDate] => 20210812
+    [F11] => 935112
+    [F37] => 122417935112
+    [RRN] => 122417935112
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 10588
+    [BankingElapsedTime] => 1266
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 5914
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => TR
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637643883559093407
+    [ResponseHash] => HpL7x1Lesmkh67wxAbMQ/rMayyM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Joti Duli
+    [ShippingEmail] => info@webin.al
+    [ShippingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [ShippingCountry] => AL
+    [ShippingCity] => Tiranë
+    [ShippingTown] => Tirana
+    [ShippingZipCode] => 1001
+    [ShippingPhone] => +355674066668
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => web:in
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Joti Duli
+    [BillingEmail] => info@webin.al
+    [BillingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [BillingCountry] => AL
+    [BillingCity] => Tiranë
+    [BillingTown] => Tirana
+    [BillingZipCode] => 1001
+    [BillingPhone] => +355674066668
+    [BillingNationalId] => 
+    [BillingCompanyName] => web:in
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Thursday 12th of August 2021 03:06:15 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434725
+    [TransactionDate] => 12.08.2021 18:05:55
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 266459_254
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 21.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/254/?key=wc_order_5t73MR0G4dueu
+    [PayerTxnId] => MjAyMTA4MTIxODA1NDg2Mzc2NDM=
+    [PayerAuthenticationCode] => jIIW7vL3jRZWCBEG+akVAVEAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => LZkScm/nBsF/XAq1xj7Esz2WNmk=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 276096,77
+    [InstallmentCount] => 0
+    [Rnd] => 0.53694600 1628780735
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => TEST CARD
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandı
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 062250
+    [HostRefNum] => 122417935112
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [ErrorData] => 
+    [BatchNo] => 1008
+    [VoidDate] => 
+    [CardMask] => 543723******1336
+    [ReqId] => 623988
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210812
+    [SysDate] => 20210812
+    [F11] => 935112
+    [F37] => 122417935112
+    [RRN] => 122417935112
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 10588
+    [BankingElapsedTime] => 1266
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 5914
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => TR
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637643883559093407
+    [ResponseHash] => HpL7x1Lesmkh67wxAbMQ/rMayyM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Joti Duli
+    [ShippingEmail] => info@webin.al
+    [ShippingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [ShippingCountry] => AL
+    [ShippingCity] => Tiranë
+    [ShippingTown] => Tirana
+    [ShippingZipCode] => 1001
+    [ShippingPhone] => +355674066668
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => web:in
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Joti Duli
+    [BillingEmail] => info@webin.al
+    [BillingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [BillingCountry] => AL
+    [BillingCity] => Tiranë
+    [BillingTown] => Tirana
+    [BillingZipCode] => 1001
+    [BillingPhone] => +355674066668
+    [BillingNationalId] => 
+    [BillingCompanyName] => web:in
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Thursday 12th of August 2021 03:06:22 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434725
+    [TransactionDate] => 12.08.2021 18:05:55
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 266459_254
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 21.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/254/?key=wc_order_5t73MR0G4dueu
+    [PayerTxnId] => MjAyMTA4MTIxODA1NDg2Mzc2NDM=
+    [PayerAuthenticationCode] => jIIW7vL3jRZWCBEG+akVAVEAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => LZkScm/nBsF/XAq1xj7Esz2WNmk=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 276096,77
+    [InstallmentCount] => 0
+    [Rnd] => 0.53694600 1628780735
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => TEST CARD
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandı
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 062250
+    [HostRefNum] => 122417935112
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [ErrorData] => 
+    [BatchNo] => 1008
+    [VoidDate] => 
+    [CardMask] => 543723******1336
+    [ReqId] => 623988
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210812
+    [SysDate] => 20210812
+    [F11] => 935112
+    [F37] => 122417935112
+    [RRN] => 122417935112
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 10588
+    [BankingElapsedTime] => 1266
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 5914
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => TR
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637643883559093407
+    [ResponseHash] => HpL7x1Lesmkh67wxAbMQ/rMayyM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Joti Duli
+    [ShippingEmail] => info@webin.al
+    [ShippingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [ShippingCountry] => AL
+    [ShippingCity] => Tiranë
+    [ShippingTown] => Tirana
+    [ShippingZipCode] => 1001
+    [ShippingPhone] => +355674066668
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => web:in
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Joti Duli
+    [BillingEmail] => info@webin.al
+    [BillingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [BillingCountry] => AL
+    [BillingCity] => Tiranë
+    [BillingTown] => Tirana
+    [BillingZipCode] => 1001
+    [BillingPhone] => +355674066668
+    [BillingNationalId] => 
+    [BillingCompanyName] => web:in
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Thursday 12th of August 2021 03:06:40 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434725
+    [TransactionDate] => 12.08.2021 18:05:55
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 266459_254
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 21.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/254/?key=wc_order_5t73MR0G4dueu
+    [PayerTxnId] => MjAyMTA4MTIxODA1NDg2Mzc2NDM=
+    [PayerAuthenticationCode] => jIIW7vL3jRZWCBEG+akVAVEAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => LZkScm/nBsF/XAq1xj7Esz2WNmk=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 276096,77
+    [InstallmentCount] => 0
+    [Rnd] => 0.53694600 1628780735
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => TEST CARD
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandı
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 062250
+    [HostRefNum] => 122417935112
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [ErrorData] => 
+    [BatchNo] => 1008
+    [VoidDate] => 
+    [CardMask] => 543723******1336
+    [ReqId] => 623988
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210812
+    [SysDate] => 20210812
+    [F11] => 935112
+    [F37] => 122417935112
+    [RRN] => 122417935112
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 10588
+    [BankingElapsedTime] => 1266
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 5914
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => TR
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637643883559093407
+    [ResponseHash] => HpL7x1Lesmkh67wxAbMQ/rMayyM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Joti Duli
+    [ShippingEmail] => info@webin.al
+    [ShippingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [ShippingCountry] => AL
+    [ShippingCity] => Tiranë
+    [ShippingTown] => Tirana
+    [ShippingZipCode] => 1001
+    [ShippingPhone] => +355674066668
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => web:in
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Joti Duli
+    [BillingEmail] => info@webin.al
+    [BillingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [BillingCountry] => AL
+    [BillingCity] => Tiranë
+    [BillingTown] => Tirana
+    [BillingZipCode] => 1001
+    [BillingPhone] => +355674066668
+    [BillingNationalId] => 
+    [BillingCompanyName] => web:in
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Thursday 12th of August 2021 03:07:05 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434725
+    [TransactionDate] => 12.08.2021 18:05:55
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 266459_254
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 21.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/254/?key=wc_order_5t73MR0G4dueu
+    [PayerTxnId] => MjAyMTA4MTIxODA1NDg2Mzc2NDM=
+    [PayerAuthenticationCode] => jIIW7vL3jRZWCBEG+akVAVEAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => LZkScm/nBsF/XAq1xj7Esz2WNmk=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 276096,77
+    [InstallmentCount] => 0
+    [Rnd] => 0.53694600 1628780735
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => TEST CARD
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandı
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 062250
+    [HostRefNum] => 122417935112
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [ErrorData] => 
+    [BatchNo] => 1008
+    [VoidDate] => 
+    [CardMask] => 543723******1336
+    [ReqId] => 623988
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210812
+    [SysDate] => 20210812
+    [F11] => 935112
+    [F37] => 122417935112
+    [RRN] => 122417935112
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 10588
+    [BankingElapsedTime] => 1266
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 5914
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => TR
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637643883559093407
+    [ResponseHash] => HpL7x1Lesmkh67wxAbMQ/rMayyM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Joti Duli
+    [ShippingEmail] => info@webin.al
+    [ShippingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [ShippingCountry] => AL
+    [ShippingCity] => Tiranë
+    [ShippingTown] => Tirana
+    [ShippingZipCode] => 1001
+    [ShippingPhone] => +355674066668
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => web:in
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Joti Duli
+    [BillingEmail] => info@webin.al
+    [BillingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [BillingCountry] => AL
+    [BillingCity] => Tiranë
+    [BillingTown] => Tirana
+    [BillingZipCode] => 1001
+    [BillingPhone] => +355674066668
+    [BillingNationalId] => 
+    [BillingCompanyName] => web:in
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Thursday 12th of August 2021 03:07:18 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434725
+    [TransactionDate] => 12.08.2021 18:05:55
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 266459_254
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 21.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/254/?key=wc_order_5t73MR0G4dueu
+    [PayerTxnId] => MjAyMTA4MTIxODA1NDg2Mzc2NDM=
+    [PayerAuthenticationCode] => jIIW7vL3jRZWCBEG+akVAVEAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => LZkScm/nBsF/XAq1xj7Esz2WNmk=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 276096,77
+    [InstallmentCount] => 0
+    [Rnd] => 0.53694600 1628780735
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => TEST CARD
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandı
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 062250
+    [HostRefNum] => 122417935112
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [ErrorData] => 
+    [BatchNo] => 1008
+    [VoidDate] => 
+    [CardMask] => 543723******1336
+    [ReqId] => 623988
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210812
+    [SysDate] => 20210812
+    [F11] => 935112
+    [F37] => 122417935112
+    [RRN] => 122417935112
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 10588
+    [BankingElapsedTime] => 1266
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 5914
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => TR
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637643883559093407
+    [ResponseHash] => HpL7x1Lesmkh67wxAbMQ/rMayyM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Joti Duli
+    [ShippingEmail] => info@webin.al
+    [ShippingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [ShippingCountry] => AL
+    [ShippingCity] => Tiranë
+    [ShippingTown] => Tirana
+    [ShippingZipCode] => 1001
+    [ShippingPhone] => +355674066668
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => web:in
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Joti Duli
+    [BillingEmail] => info@webin.al
+    [BillingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [BillingCountry] => AL
+    [BillingCity] => Tiranë
+    [BillingTown] => Tirana
+    [BillingZipCode] => 1001
+    [BillingPhone] => +355674066668
+    [BillingNationalId] => 
+    [BillingCompanyName] => web:in
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Thursday 12th of August 2021 03:07:28 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434725
+    [TransactionDate] => 12.08.2021 18:05:55
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 266459_254
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 21.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/254/?key=wc_order_5t73MR0G4dueu
+    [PayerTxnId] => MjAyMTA4MTIxODA1NDg2Mzc2NDM=
+    [PayerAuthenticationCode] => jIIW7vL3jRZWCBEG+akVAVEAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => LZkScm/nBsF/XAq1xj7Esz2WNmk=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 276096,77
+    [InstallmentCount] => 0
+    [Rnd] => 0.53694600 1628780735
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => TEST CARD
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandı
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 062250
+    [HostRefNum] => 122417935112
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/254/?key=wc_order_5t73MR0G4dueu
+    [ErrorData] => 
+    [BatchNo] => 1008
+    [VoidDate] => 
+    [CardMask] => 543723******1336
+    [ReqId] => 623988
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210812
+    [SysDate] => 20210812
+    [F11] => 935112
+    [F37] => 122417935112
+    [RRN] => 122417935112
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 10588
+    [BankingElapsedTime] => 1266
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 5914
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => TR
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637643883559093407
+    [ResponseHash] => HpL7x1Lesmkh67wxAbMQ/rMayyM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Joti Duli
+    [ShippingEmail] => info@webin.al
+    [ShippingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [ShippingCountry] => AL
+    [ShippingCity] => Tiranë
+    [ShippingTown] => Tirana
+    [ShippingZipCode] => 1001
+    [ShippingPhone] => +355674066668
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => web:in
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Joti Duli
+    [BillingEmail] => info@webin.al
+    [BillingAddress] => Rruga Haxhi Hysen Dalliu, vila nr.7, pranë FSHN
+    [BillingCountry] => AL
+    [BillingCity] => Tiranë
+    [BillingTown] => Tirana
+    [BillingZipCode] => 1001
+    [BillingPhone] => +355674066668
+    [BillingNationalId] => 
+    [BillingCompanyName] => web:in
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

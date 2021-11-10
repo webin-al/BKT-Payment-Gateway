@@ -1,0 +1,127 @@
+DATE: Tuesday 2nd of November 2021 07:50:42 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000135279361
+    [TransactionDate] => 02.11.2021 10:50:40
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 135138_547
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 220.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/547/?key=wc_order_SEIvpQsUF4eFD
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/547/?key=wc_order_SEIvpQsUF4eFD
+    [PayerTxnId] => MjAyMTExMDIxMDQ0NDA2Mzc3MTQ=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => 143SwAPcAc4EYFlpN2yWclI4b3o=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.48260600 1635838951
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => MASINI SAVERIO
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/547/?key=wc_order_SEIvpQsUF4eFD
+    [ErrorData] => 
+    [BatchNo] => 57
+    [VoidDate] => 
+    [CardMask] => 533317******0059
+    [ReqId] => 24740300
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211102
+    [SysDate] => 20211102
+    [F11] => 16225
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 118568
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 6
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 176.200.92.107
+    [ResponseRnd] => PF637714466791142244
+    [ResponseHash] => zQ7HXxJ7Fwj5NgovAS22tr0b3ZQ=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Saverio Masini
+    [ShippingEmail] => saveriomasini67@libero.it
+    [ShippingAddress] => Via Giuseppe Garibaldi 73
+    [ShippingCountry] => IT
+    [ShippingCity] => Stradella
+    [ShippingTown] => PV
+    [ShippingZipCode] => 27049
+    [ShippingPhone] => 3206848297
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Saverio Masini
+    [BillingEmail] => saveriomasini67@libero.it
+    [BillingAddress] => Via Giuseppe Garibaldi 73
+    [BillingCountry] => IT
+    [BillingCity] => Stradella
+    [BillingTown] => PV
+    [BillingZipCode] => 27049
+    [BillingPhone] => 3206848297
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

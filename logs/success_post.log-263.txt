@@ -1,0 +1,126 @@
+DATE: Friday 13th of August 2021 09:58:29 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434911
+    [TransactionDate] => 14.08.2021 00:58:28
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 60279_263
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 200.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/263/?key=wc_order_ezdxgG4tPIsYS
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/263/?key=wc_order_ezdxgG4tPIsYS
+    [PayerTxnId] => MjAyMTA4MTQwMDU3NDc2Mzc2NDQ=
+    [PayerAuthenticationCode] => jIIW7vL3jRZWCBEIjiKkA5kAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => CEMvFny3MYXv2MwO2QLJcDk6Fm0=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.87315200 1628891671
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => MIRIAM COLOMBO
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandı
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 009413
+    [HostRefNum] => 122623935199
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/263/?key=wc_order_ezdxgG4tPIsYS
+    [ErrorData] => 
+    [BatchNo] => 1010
+    [VoidDate] => 
+    [CardMask] => 533317******7008
+    [ReqId] => 624075
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210814
+    [SysDate] => 20210814
+    [F11] => 935199
+    [F37] => 122623935199
+    [RRN] => 122623935199
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 188491
+    [BankingElapsedTime] => 7445
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 10
+    [MpiElapsedTime] => 33478
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => TR
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/263/?key=wc_order_ezdxgG4tPIsYS
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637644995084128554
+    [ResponseHash] => qGrza9OzSqmu5wqMD4MDFba5XuM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Miriam Colombo
+    [ShippingEmail] => miriam1973@gmail.com
+    [ShippingAddress] => Via dolarici
+    [ShippingCountry] => IT
+    [ShippingCity] => Desenzano del Garda
+    [ShippingTown] => BS
+    [ShippingZipCode] => 25015
+    [ShippingPhone] => 3241120092
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Ditta Indivinduale di Miriam Colombo
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Miriam Colombo
+    [BillingEmail] => miriam1973@gmail.com
+    [BillingAddress] => Via dolarici
+    [BillingCountry] => IT
+    [BillingCity] => Desenzano del Garda
+    [BillingTown] => BS
+    [BillingZipCode] => 25015
+    [BillingPhone] => 3241120092
+    [BillingNationalId] => 
+    [BillingCompanyName] => Ditta Indivinduale di Miriam Colombo
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

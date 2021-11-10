@@ -1,0 +1,127 @@
+DATE: Tuesday 5th of October 2021 05:49:16 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133804739
+    [TransactionDate] => 05.10.2021 20:49:14
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 115666_397
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 145.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/397/?key=wc_order_5Edq54fAXhBHp
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/397/?key=wc_order_5Edq54fAXhBHp
+    [PayerTxnId] => MjAyMTEwMDUyMDQ4NTk2Mzc2OTA=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAAAVdBpUAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => GyR+OiDvHy2/r9v86RUahmUESBU=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.90478400 1633456057
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => GIACOMO FRANCESCO VALENTE
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 676299
+    [HostRefNum] => 127819873727
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/397/?key=wc_order_5Edq54fAXhBHp
+    [ErrorData] => 
+    [BatchNo] => 30
+    [VoidDate] => 
+    [CardMask] => 533317******1687
+    [ReqId] => 24597802
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211005
+    [SysDate] => 20211005
+    [F11] => 873727
+    [F37] => 127819873727
+    [RRN] => 127819873727
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 68950
+    [BankingElapsedTime] => 1684
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 10
+    [MpiElapsedTime] => 13738
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/397/?key=wc_order_5Edq54fAXhBHp
+    [RequestClientIp] => 87.13.9.217
+    [ResponseRnd] => PF637690637547154800
+    [ResponseHash] => VTyL+HoGPdiFwPYWsvPBKhCwARI=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Davide Calagna
+    [ShippingEmail] => nicolopalmieri90@gmail.com
+    [ShippingAddress] => Vicolo montagnetta 14
+    [ShippingCountry] => IT
+    [ShippingCity] => Biassono
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20853
+    [ShippingPhone] => 3518726710
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Davide Calagna
+    [BillingEmail] => nicolopalmieri90@gmail.com
+    [BillingAddress] => Vicolo montagnetta 14
+    [BillingCountry] => IT
+    [BillingCity] => Biassono
+    [BillingTown] => MB
+    [BillingZipCode] => 20853
+    [BillingPhone] => 3518726710
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

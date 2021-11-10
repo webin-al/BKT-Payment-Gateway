@@ -1,0 +1,254 @@
+DATE: Thursday 30th of September 2021 08:27:12 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133554441
+    [TransactionDate] => 30.09.2021 23:27:10
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 218290_376
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 297.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/376/?key=wc_order_wcD9dBWSP5tyh
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/376/?key=wc_order_wcD9dBWSP5tyh
+    [PayerTxnId] => MjAyMTA5MzAyMzI2NDk2Mzc2ODY=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => s9zR9IkhKMBQ3OuykqQdmOr3XIg=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => V
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.95472800 1633033521
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => WLLIAM ARENA
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/376/?key=wc_order_wcD9dBWSP5tyh
+    [ErrorData] => 
+    [BatchNo] => 25
+    [VoidDate] => 
+    [CardMask] => 483843******4725
+    [ReqId] => 24569866
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210930
+    [SysDate] => 20210930
+    [F11] => 845791
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 71726
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 5
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => V
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/376/?key=wc_order_wcD9dBWSP5tyh
+    [RequestClientIp] => 37.162.11.90
+    [ResponseRnd] => PF637686412082755490
+    [ResponseHash] => u50Lyt1UtsOittS8qniu+Xj0Baw=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => William Arena
+    [ShippingEmail] => wiarena74@tiscali.it
+    [ShippingAddress] => Via monte Podgora, 51
+    [ShippingCountry] => IT
+    [ShippingCity] => Saronno
+    [ShippingTown] => VA
+    [ShippingZipCode] => 21047
+    [ShippingPhone] => 3289647448
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => On/Off impianti elettrici
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => William Arena
+    [BillingEmail] => wiarena74@tiscali.it
+    [BillingAddress] => Via monte Podgora, 51
+    [BillingCountry] => IT
+    [BillingCity] => Saronno
+    [BillingTown] => VA
+    [BillingZipCode] => 21047
+    [BillingPhone] => 3289647448
+    [BillingNationalId] => 
+    [BillingCompanyName] => On/Off impianti elettrici
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Thursday 30th of September 2021 08:29:46 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133554458
+    [TransactionDate] => 30.09.2021 23:29:43
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 167559_376
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 297.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/376/?key=wc_order_wcD9dBWSP5tyh
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/376/?key=wc_order_wcD9dBWSP5tyh
+    [PayerTxnId] => MjAyMTA5MzAyMzI5MTU2Mzc2ODY=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => J+59BKzJlFh80PD2f6xTOWkfBEo=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => V
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.51580000 1633033632
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => WILLIAM ARENA
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/376/?key=wc_order_wcD9dBWSP5tyh
+    [ErrorData] => 
+    [BatchNo] => 25
+    [VoidDate] => 
+    [CardMask] => 483843******4725
+    [ReqId] => 24569934
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210930
+    [SysDate] => 20210930
+    [F11] => 845859
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 94099
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 5
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => V
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/376/?key=wc_order_wcD9dBWSP5tyh
+    [RequestClientIp] => 37.162.11.90
+    [ResponseRnd] => PF637686413532929100
+    [ResponseHash] => 5k/1+VfUYdLZbLHTtk5FX6vpYlA=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => William Arena
+    [ShippingEmail] => wiarena74@tiscali.it
+    [ShippingAddress] => Via monte Podgora, 51
+    [ShippingCountry] => IT
+    [ShippingCity] => Saronno
+    [ShippingTown] => VA
+    [ShippingZipCode] => 21047
+    [ShippingPhone] => 3289647448
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => On/Off impianti elettrici
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => William Arena
+    [BillingEmail] => wiarena74@tiscali.it
+    [BillingAddress] => Via monte Podgora, 51
+    [BillingCountry] => IT
+    [BillingCity] => Saronno
+    [BillingTown] => VA
+    [BillingZipCode] => 21047
+    [BillingPhone] => 3289647448
+    [BillingNationalId] => 
+    [BillingCompanyName] => On/Off impianti elettrici
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

@@ -1,0 +1,254 @@
+DATE: Monday 20th of September 2021 08:35:10 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133070337
+    [TransactionDate] => 20.09.2021 11:35:06
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 273210_333
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 350.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/333/?key=wc_order_vYYn3O1ppugB9
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/333/?key=wc_order_vYYn3O1ppugB9
+    [PayerTxnId] => MjAyMTA5MjAxMTM0NDU2Mzc2Nzc=
+    [PayerAuthenticationCode] => AAACCUKJCRYyEmkDAIkJAAAAAAA=
+    [Eci] => 05
+    [MD] => 
+    [Hash] => 7bJrYsx2ZvjQDtrGr4zaEdF2nIs=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => V
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.53753900 1632126741
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => ALESSANDRA 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 677721
+    [HostRefNum] => 126310791378
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/333/?key=wc_order_vYYn3O1ppugB9
+    [ErrorData] => 
+    [BatchNo] => 16
+    [VoidDate] => 
+    [CardMask] => 402360******3182
+    [ReqId] => 24515453
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210920
+    [SysDate] => 20210920
+    [F11] => 791378
+    [F37] => 126310791378
+    [RRN] => 126310791378
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 134233
+    [BankingElapsedTime] => 2141
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 12
+    [MpiElapsedTime] => 19699
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => V
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/333/?key=wc_order_vYYn3O1ppugB9
+    [RequestClientIp] => 5.90.15.216
+    [ResponseRnd] => PF637677345071974080
+    [ResponseHash] => yMoRLoJIHW/QDlW4uOtwvlK1yno=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Cristian Damiani
+    [ShippingEmail] => cristian_capogrosso@icloud.com
+    [ShippingAddress] => Via padova 240
+    [ShippingCountry] => IT
+    [ShippingCity] => Milano
+    [ShippingTown] => MI
+    [ShippingZipCode] => 20100
+    [ShippingPhone] => 3892546019
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Cristian Damiani
+    [BillingEmail] => cristian_capogrosso@icloud.com
+    [BillingAddress] => Via padova 240
+    [BillingCountry] => IT
+    [BillingCity] => Milano
+    [BillingTown] => MI
+    [BillingZipCode] => 20100
+    [BillingPhone] => 3892546019
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Monday 20th of September 2021 08:37:09 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133070337
+    [TransactionDate] => 20.09.2021 11:35:06
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 273210_333
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 350.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/333/?key=wc_order_vYYn3O1ppugB9
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/333/?key=wc_order_vYYn3O1ppugB9
+    [PayerTxnId] => MjAyMTA5MjAxMTM0NDU2Mzc2Nzc=
+    [PayerAuthenticationCode] => AAACCUKJCRYyEmkDAIkJAAAAAAA=
+    [Eci] => 05
+    [MD] => 
+    [Hash] => 7bJrYsx2ZvjQDtrGr4zaEdF2nIs=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => V
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.53753900 1632126741
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => ALESSANDRA 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 677721
+    [HostRefNum] => 126310791378
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/333/?key=wc_order_vYYn3O1ppugB9
+    [ErrorData] => 
+    [BatchNo] => 16
+    [VoidDate] => 
+    [CardMask] => 402360******3182
+    [ReqId] => 24515453
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210920
+    [SysDate] => 20210920
+    [F11] => 791378
+    [F37] => 126310791378
+    [RRN] => 126310791378
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 134233
+    [BankingElapsedTime] => 2141
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 12
+    [MpiElapsedTime] => 19699
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => V
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/333/?key=wc_order_vYYn3O1ppugB9
+    [RequestClientIp] => 5.90.15.216
+    [ResponseRnd] => PF637677345071974080
+    [ResponseHash] => yMoRLoJIHW/QDlW4uOtwvlK1yno=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Cristian Damiani
+    [ShippingEmail] => cristian_capogrosso@icloud.com
+    [ShippingAddress] => Via padova 240
+    [ShippingCountry] => IT
+    [ShippingCity] => Milano
+    [ShippingTown] => MI
+    [ShippingZipCode] => 20100
+    [ShippingPhone] => 3892546019
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Cristian Damiani
+    [BillingEmail] => cristian_capogrosso@icloud.com
+    [BillingAddress] => Via padova 240
+    [BillingCountry] => IT
+    [BillingCity] => Milano
+    [BillingTown] => MI
+    [BillingZipCode] => 20100
+    [BillingPhone] => 3892546019
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

@@ -1,0 +1,127 @@
+DATE: Monday 25th of October 2021 03:10:56 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000134841780
+    [TransactionDate] => 25.10.2021 18:10:54
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 247311_513
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 200.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/513/?key=wc_order_1BGPVCkWRKTs2
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/513/?key=wc_order_1BGPVCkWRKTs2
+    [PayerTxnId] => MjAyMTEwMjUxODEwMTE2Mzc3MDc=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => tQjNHNNXV8P7c5NnAPxQNKXDHLQ=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.21964000 1635174564
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => ANGELO MASSARO
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/513/?key=wc_order_1BGPVCkWRKTs2
+    [ErrorData] => 
+    [BatchNo] => 49
+    [VoidDate] => 
+    [CardMask] => 533317******9323
+    [ReqId] => 24707676
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211025
+    [SysDate] => 20211025
+    [F11] => 983601
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 40145
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 7
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.36.84.244
+    [ResponseRnd] => PF637707822096161190
+    [ResponseHash] => 18CTu331kePV/yrdJVpJRN0tQ3s=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Angelo Massaro
+    [ShippingEmail] => angelolafenicesrl@gmail.com
+    [ShippingAddress] => Grigna 2
+    [ShippingCountry] => AL
+    [ShippingCity] => Nova milanese
+    [ShippingTown] => Mb
+    [ShippingZipCode] => 20834
+    [ShippingPhone] => 3892867415
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Fenice srls
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Angelo Massaro
+    [BillingEmail] => angelolafenicesrl@gmail.com
+    [BillingAddress] => Grigna 2
+    [BillingCountry] => AL
+    [BillingCity] => Nova milanese
+    [BillingTown] => Mb
+    [BillingZipCode] => 20834
+    [BillingPhone] => 3892867415
+    [BillingNationalId] => 
+    [BillingCompanyName] => Fenice srls
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

@@ -1,0 +1,127 @@
+DATE: Wednesday 20th of October 2021 12:55:22 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000134600538
+    [TransactionDate] => 20.10.2021 15:55:20
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 89628_494
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 250.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/494/?key=wc_order_dtpqaFMI2MxiD
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/494/?key=wc_order_dtpqaFMI2MxiD
+    [PayerTxnId] => MjAyMTEwMjAxNTU0NTI2Mzc3MDM=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => EbGABJpuavel060Li9EbyL2kqFw=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.69893400 1634734302
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => DI PADOVA SALVATORE
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/494/?key=wc_order_dtpqaFMI2MxiD
+    [ErrorData] => 
+    [BatchNo] => 45
+    [VoidDate] => 
+    [CardMask] => 537572******5499
+    [ReqId] => 24681306
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211020
+    [SysDate] => 20211020
+    [F11] => 957231
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 179397
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 5
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 5.90.239.27
+    [ResponseRnd] => PF637703420911945198
+    [ResponseHash] => MOnZ9rtX1LCslFOowR0KMLzZJmY=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Federico Di Padova
+    [ShippingEmail] => dipadovafederico7@gmail.com
+    [ShippingAddress] => Corso Vittorio Emanuele 133
+    [ShippingCountry] => IT
+    [ShippingCity] => Lucca Sicula
+    [ShippingTown] => AG
+    [ShippingZipCode] => 92010
+    [ShippingPhone] => 3792441104
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Federico Di Padova
+    [BillingEmail] => dipadovafederico7@gmail.com
+    [BillingAddress] => Corso Vittorio Emanuele 133
+    [BillingCountry] => IT
+    [BillingCity] => Lucca Sicula
+    [BillingTown] => AG
+    [BillingZipCode] => 92010
+    [BillingPhone] => 3792441104
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

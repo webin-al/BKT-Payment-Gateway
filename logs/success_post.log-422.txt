@@ -1,0 +1,127 @@
+DATE: Monday 11th of October 2021 11:40:50 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000134111412
+    [TransactionDate] => 11.10.2021 14:40:46
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 141393_422
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 370.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/422/?key=wc_order_wGxtcHt4cxQ69
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/422/?key=wc_order_wGxtcHt4cxQ69
+    [PayerTxnId] => MjAyMTEwMTExNDQwMjE2Mzc2OTU=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAABQsAAAAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => nIimbBDDifD6kk9+HCNbdqOJ2ao=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.35617800 1633952320
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => CALAGNA MARIA CRISTINA
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 677651
+    [HostRefNum] => 128413904087
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/422/?key=wc_order_wGxtcHt4cxQ69
+    [ErrorData] => 
+    [BatchNo] => 36
+    [VoidDate] => 
+    [CardMask] => 533317******8965
+    [ReqId] => 24628162
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211011
+    [SysDate] => 20211011
+    [F11] => 904087
+    [F37] => 128413904087
+    [RRN] => 128413904087
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 97465
+    [BankingElapsedTime] => 1336
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 23278
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/422/?key=wc_order_wGxtcHt4cxQ69
+    [RequestClientIp] => 37.161.136.170
+    [ResponseRnd] => PF637695600463185797
+    [ResponseHash] => EoZEw22LnFO4U86c+ovNIB4aAuA=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Davide Calagna
+    [ShippingEmail] => nicolopalmieri90@gmail.com
+    [ShippingAddress] => Vicolo montagnetta 14
+    [ShippingCountry] => IT
+    [ShippingCity] => Biassono
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20853
+    [ShippingPhone] => 3518726710
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Davide Calagna
+    [BillingEmail] => nicolopalmieri90@gmail.com
+    [BillingAddress] => Vicolo montagnetta 14
+    [BillingCountry] => IT
+    [BillingCity] => Biassono
+    [BillingTown] => MB
+    [BillingZipCode] => 20853
+    [BillingPhone] => 3518726710
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

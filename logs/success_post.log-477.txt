@@ -1,0 +1,127 @@
+DATE: Monday 18th of October 2021 08:55:39 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000134481907
+    [TransactionDate] => 18.10.2021 23:55:37
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 257075_477
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 500.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/477/?key=wc_order_HAl2KnZh1CFib
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/477/?key=wc_order_HAl2KnZh1CFib
+    [PayerTxnId] => MjAyMTEwMTgyMzU1MDc2Mzc3MDE=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAABBWBWQAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => Z8GjBJoEZt+ir4KPhZ65O7/Ks3s=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.94231100 1634590466
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => FRANCESCO BOVA 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Approved
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 672875
+    [HostRefNum] => 129122947072
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/477/?key=wc_order_HAl2KnZh1CFib
+    [ErrorData] => 
+    [BatchNo] => 44
+    [VoidDate] => 
+    [CardMask] => 533317******8996
+    [ReqId] => 24671147
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211018
+    [SysDate] => 20211018
+    [F11] => 947072
+    [F37] => 129122947072
+    [RRN] => 129122947072
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 32030
+    [BankingElapsedTime] => 1348
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 28507
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 95.131.44.82
+    [ResponseRnd] => PF637701981372516564
+    [ResponseHash] => qFnQmR3OwAV2qDjHd7G+PrQR2i0=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Francesco Bova
+    [ShippingEmail] => bovafranco66@gmail.com
+    [ShippingAddress] => Viale Luigi Torelli n.5
+    [ShippingCountry] => IT
+    [ShippingCity] => Milano
+    [ShippingTown] => MI
+    [ShippingZipCode] => 20158
+    [ShippingPhone] => 3271736997
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Francesco Bova
+    [BillingEmail] => bovafranco66@gmail.com
+    [BillingAddress] => Viale Luigi Torelli n.5
+    [BillingCountry] => IT
+    [BillingCity] => Milano
+    [BillingTown] => MI
+    [BillingZipCode] => 20158
+    [BillingPhone] => 3271736997
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

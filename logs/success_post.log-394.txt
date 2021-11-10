@@ -1,0 +1,127 @@
+DATE: Tuesday 5th of October 2021 08:52:52 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133800628
+    [TransactionDate] => 05.10.2021 11:52:47
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 262181_394
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 85.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/394/?key=wc_order_sEqzdosvC5vlM
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/394/?key=wc_order_sEqzdosvC5vlM
+    [PayerTxnId] => MjAyMTEwMDUxMTUyMjM2Mzc2OTA=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAABSPAhQAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => dx+5CeDV2W8oPkTzZhW0qFGeYjA=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.82015600 1633423902
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => PETRICA GHEOCA
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 674625
+    [HostRefNum] => 127810870483
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/394/?key=wc_order_sEqzdosvC5vlM
+    [ErrorData] => 
+    [BatchNo] => 30
+    [VoidDate] => 
+    [CardMask] => 533317******2228
+    [ReqId] => 24594558
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211005
+    [SysDate] => 20211005
+    [F11] => 870483
+    [F37] => 127810870483
+    [RRN] => 127810870483
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 35244
+    [BankingElapsedTime] => 1188
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 10
+    [MpiElapsedTime] => 22983
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.36.199.164
+    [ResponseRnd] => PF637690315676602091
+    [ResponseHash] => OZjpQ9GJ3QN4oqrNCRYuWxv6x6E=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Petrica Gheoca
+    [ShippingEmail] => petricagheoca@gmail.com
+    [ShippingAddress] => Lusore
+    [ShippingCountry] => IT
+    [ShippingCity] => Mirano
+    [ShippingTown] => VE
+    [ShippingZipCode] => 30035
+    [ShippingPhone] => 3661460461
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Petrica Gheoca
+    [BillingEmail] => petricagheoca@gmail.com
+    [BillingAddress] => Lusore
+    [BillingCountry] => IT
+    [BillingCity] => Mirano
+    [BillingTown] => VE
+    [BillingZipCode] => 30035
+    [BillingPhone] => 3661460461
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

@@ -1,0 +1,127 @@
+DATE: Thursday 7th of October 2021 05:48:06 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133913670
+    [TransactionDate] => 07.10.2021 20:48:05
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 50071_407
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 600.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/407/?key=wc_order_Fcf6vt4T8cfZ8
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/407/?key=wc_order_Fcf6vt4T8cfZ8
+    [PayerTxnId] => MjAyMTEwMDcyMDQ3Mzc2Mzc2OTI=
+    [PayerAuthenticationCode] => AAABCBQIgBAHIEgCBwiAAAAAAAA=
+    [Eci] => 05
+    [MD] => 
+    [Hash] => uUon5mVN4nnHLD1Vkw0kB4AMc4E=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => V
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.42318900 1633628776
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => TNG MULTISERVICE 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 2
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 333049
+    [HostRefNum] => 128019886826
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/407/?key=wc_order_Fcf6vt4T8cfZ8
+    [ErrorData] => 
+    [BatchNo] => 32
+    [VoidDate] => 
+    [CardMask] => 483719******9368
+    [ReqId] => 24610901
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211007
+    [SysDate] => 20211007
+    [F11] => 886826
+    [F37] => 128019886826
+    [RRN] => 128019886826
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 69577
+    [BankingElapsedTime] => 1715
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 17
+    [MpiElapsedTime] => 26351
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => V
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 5.89.195.103
+    [ResponseRnd] => PF637692364851740269
+    [ResponseHash] => vDDVyujaxZB0GNKu40HNZdBuY/g=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Wendy Gomez
+    [ShippingEmail] => tngmultiservice@gmail.com
+    [ShippingAddress] => Via don Giuseppe ambrosini
+    [ShippingCountry] => IT
+    [ShippingCity] => San bonifacio
+    [ShippingTown] => VR
+    [ShippingZipCode] => 37047
+    [ShippingPhone] => 3519001035
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => TNG MULTISERVICE
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Wendy Gomez
+    [BillingEmail] => tngmultiservice@gmail.com
+    [BillingAddress] => Via don Giuseppe ambrosini
+    [BillingCountry] => IT
+    [BillingCity] => San bonifacio
+    [BillingTown] => VR
+    [BillingZipCode] => 37047
+    [BillingPhone] => 3519001035
+    [BillingNationalId] => 
+    [BillingCompanyName] => TNG MULTISERVICE
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

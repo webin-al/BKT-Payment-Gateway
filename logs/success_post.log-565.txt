@@ -1,0 +1,127 @@
+DATE: Thursday 4th of November 2021 02:00:27 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000135380173
+    [TransactionDate] => 04.11.2021 17:00:24
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 274008_565
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 77.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/565/?key=wc_order_O983WupdsfW6d
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/565/?key=wc_order_O983WupdsfW6d
+    [PayerTxnId] => MjAyMTExMDQxNzAwMDM2Mzc3MTY=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAAAveBicAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => MSqOsyV4R+gQMxD+48xU3b1z4YM=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.84884400 1636034354
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => ALESSANDRO MELOTTO
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Approved
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 684193
+    [HostRefNum] => 130815026332
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/565/?key=wc_order_O983WupdsfW6d
+    [ErrorData] => 
+    [BatchNo] => 59
+    [VoidDate] => 
+    [CardMask] => 533317******7791
+    [ReqId] => 24750406
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211104
+    [SysDate] => 20211104
+    [F11] => 26332
+    [F37] => 130815026332
+    [RRN] => 130815026332
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 43688
+    [BankingElapsedTime] => 3243
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 17694
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.18.73.246
+    [ResponseRnd] => PF637716420242964301
+    [ResponseHash] => 4NVhdCl3LFpUSzJtz+Qz6tZIlx0=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Alessandro Melotto
+    [ShippingEmail] => termoidraulica.ma@gmail.com
+    [ShippingAddress] => Via Quistello 14
+    [ShippingCountry] => IT
+    [ShippingCity] => Mozzecane
+    [ShippingTown] => VR
+    [ShippingZipCode] => 37060
+    [ShippingPhone] => +393482111335
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Ok
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Alessandro Melotto
+    [BillingEmail] => termoidraulica.ma@gmail.com
+    [BillingAddress] => Via Quistello 14
+    [BillingCountry] => IT
+    [BillingCity] => Mozzecane
+    [BillingTown] => VR
+    [BillingZipCode] => 37060
+    [BillingPhone] => +393482111335
+    [BillingNationalId] => 
+    [BillingCompanyName] => Ok
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

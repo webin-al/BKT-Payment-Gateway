@@ -1,0 +1,367 @@
+DATE: Friday 8th of October 2021 07:59:26 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 08.10.2021 10:59:22
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 267804_409
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 360.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/409/?key=wc_order_C370i6duwVRZt
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => K44PXBBjmJ0cOZh6ppO/HyHz1j4=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.28333700 1633679802
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [RequestClientIp] => 31.158.169.11
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Davide Calagna
+    [ShippingEmail] => nicolopalmieri90@gmail.com
+    [ShippingAddress] => Vicolo montagnetta 14 
+    [ShippingCountry] => IT
+    [ShippingCity] => Biassono
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20853
+    [ShippingPhone] => 3518726710
+    [BillingNameSurname] => Davide Calagna
+    [BillingEmail] => nicolopalmieri90@gmail.com
+    [BillingAddress] => Vicolo montagnetta 14 
+    [BillingCountry] => IT
+    [BillingCity] => Biassono
+    [BillingTown] => MB
+    [BillingZipCode] => 20853
+    [BillingPhone] => 3518726710
+    [__VIEWSTATE] => 1fKXUITdJHR7b0TeNzoEQCS6ih4D85bAnlja9CL+tWGGByxSltrzW/DLCQaFadsiV2KJKbuTjetjIOF4G3R6cgiukMXVgBA4Y+ZAYnN8CPS9iZGYipW2+Dflm8i3XsQQko4os4jvAZQhUPgR6r6UTHASSKSF5uUZIXa3czw57o2QPS/FuAX6jeG30UyZnheKqkPs9ctGGQbcPZRJbtGH5Jqa9JmiOfXMdLXKH4pSxfAgGcdm1TL6WlNrQwG1sk+lmVp792+kK2wuSaFt6g8SXniMoF89JyJeQufalf97ngVXnDuTUqg9PeMBo8XUSFiKp9uF0ROtg1ySZkASnutghtIM1T/6pDls6oG6Cgkma5dX/x7K1QKe0zTy3NFIOBnpjzaq5Neo+q42vn/19JekBF0vtOgvO1R+WWLWew3KWcv8LJmji8wc87nint48AnOTDN37v81U94DRF+AmAiZRvuDeL6fPtKh9UsahsbMy/4tsgbvXF8MLs2CrXRbCvrWSkO91oaya/igNJ6QWNIjrub9/SsDPFSrR7fRwoaAgfUMgYa2YlvdC4unyeYS2o+mqe95UmPcWT5zAh3AfWRzhTMsuE7R4p75isIbxmtgMwQxytY8HL+VVZvdkhKkEqOVBo3D41+TMceouw0sjq9Em54YPK084dwwHbXfJOkiaBtPddrrlYpl4z8otOHkvaxgMp1m/59fEgBMr2aPVfUuno1vPtbHOeYTQfWPVx+YGEEhBANt/8l4lrMaffri5AStV6NkqEUICFuV8QNBV/hk/+q5NES1BMvkud4Gchng53KpvfHcR
+)
+
+-------------------------------------------------------
+DATE: Friday 8th of October 2021 08:06:29 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133989653
+    [TransactionDate] => 08.10.2021 11:06:25
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 245943_409
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 360.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/409/?key=wc_order_C370i6duwVRZt
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [PayerTxnId] => MjAyMTEwMDgxMTAwNTU2Mzc2OTI=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => iPumZSovnbVMZMkwK4nYp4lBkhs=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.03663600 1633679966
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => CALAGNA MARIA CRISTINA 
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [ErrorData] => 
+    [BatchNo] => 33
+    [VoidDate] => 
+    [CardMask] => 533317******8965
+    [ReqId] => 24613367
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211008
+    [SysDate] => 20211008
+    [F11] => 889292
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 77324
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 6
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [RequestClientIp] => 31.158.169.11
+    [ResponseRnd] => PF637692876547949907
+    [ResponseHash] => 14e0FxcADnI7PSFMHfwfxWbD6Ko=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Davide Calagna
+    [ShippingEmail] => nicolopalmieri90@gmail.com
+    [ShippingAddress] => Vicolo montagnetta 14
+    [ShippingCountry] => IT
+    [ShippingCity] => Biassono
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20853
+    [ShippingPhone] => 3518726710
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Davide Calagna
+    [BillingEmail] => nicolopalmieri90@gmail.com
+    [BillingAddress] => Vicolo montagnetta 14
+    [BillingCountry] => IT
+    [BillingCity] => Biassono
+    [BillingTown] => MB
+    [BillingZipCode] => 20853
+    [BillingPhone] => 3518726710
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Friday 8th of October 2021 08:07:50 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 08.10.2021 11:07:34
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 136975_409
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 360.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/409/?key=wc_order_C370i6duwVRZt
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => 6z2j4s8dgLBYsP+HP6RgeSE+CuA=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.12143400 1633680389
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/409/?key=wc_order_C370i6duwVRZt
+    [RequestClientIp] => 31.158.169.11
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Davide Calagna
+    [ShippingEmail] => nicolopalmieri90@gmail.com
+    [ShippingAddress] => Vicolo montagnetta 14 
+    [ShippingCountry] => IT
+    [ShippingCity] => Biassono
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20853
+    [ShippingPhone] => 3518726710
+    [BillingNameSurname] => Davide Calagna
+    [BillingEmail] => nicolopalmieri90@gmail.com
+    [BillingAddress] => Vicolo montagnetta 14 
+    [BillingCountry] => IT
+    [BillingCity] => Biassono
+    [BillingTown] => MB
+    [BillingZipCode] => 20853
+    [BillingPhone] => 3518726710
+    [__VIEWSTATE] => 9vIccj35J+ko9VjqKgeyTEJ+qdR66AcB/2jqLaT8FdL2DPeP+D4nGql+KgzD38mEVz64rbmogF4ZYnRZqFr/BItuL1zBTNw5ZebF4JBRs9pyEGrRI9SiE62spWoMq82JcQM88uGi6AMrVhyt8y1hf3vQdDar21ysQPXS5tJUVipM8AGqjQBwoKn68IyM6+gwflx6EObmUx4Dh3hGOXddpILWvJyUG54ak+4hJ5L2kmHoTxMv4ACzIuz/AH7OBSTpZHekXSJZqfLfj7Nj6yHmwO/IwhsGb/wgWB9BBW6ry0X8Tnit/DmGJGT5BkOUJuPuJKaoPkUU3GpuO8vaEKXXMhOWddDV3+gcqb3McurxrF/JBXIGCyy6W55pGo3rtd3zOdVMDKNVkaNOb2Jy/HTKmT9HENec3fB4SpGj2GCI65O4O3rjqYLq3NY5yhVT+c+8HXOR4q5ZUB47en89FJNrsk6VH49Ms0LMoS2WXSCbJsTkhHIgSCs77H+7ahpXp0kk1lNzJnkRt9hIUJqWunZpthEnRFZ8NKs1Cd9dYUssp+QxIECyEuyhQL43VNmZwYmqSjEwc0OmfrWmCpm6azyaSyP+3Qj4pSIgW3ZetU9TuK8YLVu1ETtoYDtrgAeem0UWpGUUubefpxxzCJKfTYndPm+w3UfuNTuTA69a/YgwWYugMqyQrDG/luE/kvVTGDXP3e4mZovz7EJxIboDTdmy3Qd4B/xioxP10bZnbVwhOKd36NB7AYbWtV8afWsNU72bq4psTU6GdjOT5gnq057gJ0BVnmFvf4QieGRLcteOGDg45m+s
+)
+
+-------------------------------------------------------

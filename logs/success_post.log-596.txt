@@ -1,0 +1,127 @@
+DATE: Wednesday 10th of November 2021 03:41:51 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000135730172
+    [TransactionDate] => 10.11.2021 18:41:47
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 135092_596
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 360.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/596/?key=wc_order_fp3AvIHSnK7Bc
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/596/?key=wc_order_fp3AvIHSnK7Bc
+    [PayerTxnId] => MjAyMTExMTAxODQxMjk2Mzc3MjE=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAABWGCQAAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => s7mtmYWZd0yUsUNn1ZRPvp8huHI=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.55921400 1636558852
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => ELVIS TORALDO 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Approved
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 689199
+    [HostRefNum] => 131416050638
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/596/?key=wc_order_fp3AvIHSnK7Bc
+    [ErrorData] => 
+    [BatchNo] => 65
+    [VoidDate] => 
+    [CardMask] => 533317******7831
+    [ReqId] => 24774712
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211110
+    [SysDate] => 20211110
+    [F11] => 50638
+    [F37] => 131416050638
+    [RRN] => 131416050638
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 32748
+    [BankingElapsedTime] => 1300
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 13
+    [MpiElapsedTime] => 16228
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.68.4.33
+    [ResponseRnd] => PF637721665074879929
+    [ResponseHash] => 4WRJDe1ujBMQHMUD8yJMWlul1Ro=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Elvis Toraldo
+    [ShippingEmail] => elvistoraldo@gmail.com
+    [ShippingAddress] => Cimabue 3
+    [ShippingCountry] => IT
+    [ShippingCity] => Monza
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20900
+    [ShippingPhone] => 3278278672
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Elvis Toraldo
+    [BillingEmail] => elvistoraldo@gmail.com
+    [BillingAddress] => Cimabue 3
+    [BillingCountry] => IT
+    [BillingCity] => Monza
+    [BillingTown] => MB
+    [BillingZipCode] => 20900
+    [BillingPhone] => 3278278672
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

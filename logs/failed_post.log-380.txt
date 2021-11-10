@@ -1,0 +1,254 @@
+DATE: Friday 1st of October 2021 06:12:34 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133603776
+    [TransactionDate] => 01.10.2021 21:12:32
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 282471_380
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 300.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/380/?key=wc_order_tQiEn9cR09CLw
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/380/?key=wc_order_tQiEn9cR09CLw
+    [PayerTxnId] => MjAyMTEwMDEyMTEyMTk2Mzc2ODc=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => QSKoMzm9W4mNvb8laKNR1bjZYz4=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => V
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.32933600 1633111869
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => DANIELE D ANGIO
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/380/?key=wc_order_tQiEn9cR09CLw
+    [ErrorData] => 
+    [BatchNo] => 26
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 24575700
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211001
+    [SysDate] => 20211001
+    [F11] => 851625
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 63937
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => V
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/380/?key=wc_order_tQiEn9cR09CLw
+    [RequestClientIp] => 37.159.103.61
+    [ResponseRnd] => PF637687195378557538
+    [ResponseHash] => ov3OGVEpaInxySqalp9OSQWhGA8=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Daniele D sngio
+    [ShippingEmail] => danieledangio@virgilio.it
+    [ShippingAddress] => Dei carrucolanti 36
+    [ShippingCountry] => IT
+    [ShippingCity] => Sant agostino
+    [ShippingTown] => FE
+    [ShippingZipCode] => 44047
+    [ShippingPhone] => 3478282490
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Pronto intervento casa 24 h
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Daniele D sngio
+    [BillingEmail] => danieledangio@virgilio.it
+    [BillingAddress] => Dei carrucolanti 36
+    [BillingCountry] => IT
+    [BillingCity] => Sant agostino
+    [BillingTown] => FE
+    [BillingZipCode] => 44047
+    [BillingPhone] => 3478282490
+    [BillingNationalId] => 
+    [BillingCompanyName] => Pronto intervento casa 24 h
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Friday 1st of October 2021 06:14:49 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133603782
+    [TransactionDate] => 01.10.2021 21:14:47
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 177282_380
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 300.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/380/?key=wc_order_tQiEn9cR09CLw
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/380/?key=wc_order_tQiEn9cR09CLw
+    [PayerTxnId] => MjAyMTEwMDEyMTEzMzI2Mzc2ODc=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => EKyCAiK7uLc1a+HIj2+MMCZjS/k=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => V
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.07961700 1633111954
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => DANIELE DANGIO
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/380/?key=wc_order_tQiEn9cR09CLw
+    [ErrorData] => 
+    [BatchNo] => 26
+    [VoidDate] => 
+    [CardMask] => 481000******0429
+    [ReqId] => 24575618
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211001
+    [SysDate] => 20211001
+    [F11] => 851543
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 52463
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 6
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => V
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/380/?key=wc_order_tQiEn9cR09CLw
+    [RequestClientIp] => 37.159.103.61
+    [ResponseRnd] => PF637687196114931176
+    [ResponseHash] => AxRwSA3dYdQt10eQdsFaQma7JVY=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Daniele D sngio
+    [ShippingEmail] => danieledangio@virgilio.it
+    [ShippingAddress] => Dei carrucolanti 36
+    [ShippingCountry] => IT
+    [ShippingCity] => Sant agostino
+    [ShippingTown] => FE
+    [ShippingZipCode] => 44047
+    [ShippingPhone] => 3478282490
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Pronto intervento casa 24 h
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Daniele D sngio
+    [BillingEmail] => danieledangio@virgilio.it
+    [BillingAddress] => Dei carrucolanti 36
+    [BillingCountry] => IT
+    [BillingCity] => Sant agostino
+    [BillingTown] => FE
+    [BillingZipCode] => 44047
+    [BillingPhone] => 3478282490
+    [BillingNationalId] => 
+    [BillingCompanyName] => Pronto intervento casa 24 h
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

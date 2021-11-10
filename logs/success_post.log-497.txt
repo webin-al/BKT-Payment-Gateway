@@ -1,0 +1,127 @@
+DATE: Thursday 21st of October 2021 08:34:40 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000134659760
+    [TransactionDate] => 21.10.2021 11:34:37
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 71976_497
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 200.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/497/?key=wc_order_LIftNjOUIBZmQ
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/497/?key=wc_order_LIftNjOUIBZmQ
+    [PayerTxnId] => MjAyMTEwMjExMTM0MDM2Mzc3MDQ=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAAA0DCTIAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => FdLlFsyW1rwo4e8A3jOGYxLgAyY=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.30383600 1634805135
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => MOGA CRISTIAN DANIEL
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Approved
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 677006
+    [HostRefNum] => 129410961933
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/497/?key=wc_order_LIftNjOUIBZmQ
+    [ErrorData] => 
+    [BatchNo] => 46
+    [VoidDate] => 
+    [CardMask] => 533317******8487
+    [ReqId] => 24686008
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211021
+    [SysDate] => 20211021
+    [F11] => 961933
+    [F37] => 129410961933
+    [RRN] => 129410961933
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 104183
+    [BankingElapsedTime] => 1062
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 11
+    [MpiElapsedTime] => 32624
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/497/?key=wc_order_LIftNjOUIBZmQ
+    [RequestClientIp] => 151.18.24.115
+    [ResponseRnd] => PF637704128769742893
+    [ResponseHash] => 4iHJBwO9MAVaBRbIPf5ZskessVE=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Cristian Daniel Moga
+    [ShippingEmail] => mogacristian21@gmail.com
+    [ShippingAddress] => Via Odelscalchi 7
+    [ShippingCountry] => IT
+    [ShippingCity] => Novara
+    [ShippingTown] => NO
+    [ShippingZipCode] => 28100
+    [ShippingPhone] => 3801858667
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Cristian Daniel Moga
+    [BillingEmail] => mogacristian21@gmail.com
+    [BillingAddress] => Via Odelscalchi 7
+    [BillingCountry] => IT
+    [BillingCity] => Novara
+    [BillingTown] => NO
+    [BillingZipCode] => 28100
+    [BillingPhone] => 3801858667
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

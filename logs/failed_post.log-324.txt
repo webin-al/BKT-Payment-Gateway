@@ -1,0 +1,127 @@
+DATE: Wednesday 15th of September 2021 08:18:12 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000132848075
+    [TransactionDate] => 15.09.2021 23:18:09
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 62521_324
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 200.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/324/?key=wc_order_0G6lJBnLB5SHV
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/324/?key=wc_order_0G6lJBnLB5SHV
+    [PayerTxnId] => MjAyMTA5MTUyMzE3MzE2Mzc2NzM=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAAAg/AkgAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => 6SScTrhFZ4GsKaGEhnA0Rqo3/cw=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.92816100 1631736955
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => DI PADOVA SALVATORE
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => N
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylanmadi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 125822767482
+    [ProcReturnCode] => 05
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/324/?key=wc_order_0G6lJBnLB5SHV
+    [ErrorData] => 
+    [BatchNo] => 14
+    [VoidDate] => 
+    [CardMask] => 533317******3973
+    [ReqId] => 24491557
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210915
+    [SysDate] => 20210915
+    [F11] => 767482
+    [F37] => 125822767482
+    [RRN] => 125822767482
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 92928
+    [BankingElapsedTime] => 840
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 12
+    [MpiElapsedTime] => 36987
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/324/?key=wc_order_0G6lJBnLB5SHV
+    [RequestClientIp] => 31.22.50.8
+    [ResponseRnd] => PF637673446891331548
+    [ResponseHash] => BT7ikFviXEJ2U1nb5egkOATuQWg=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Salvatore Di Padova
+    [ShippingEmail] => dipadovafederico7@gmail.com
+    [ShippingAddress] => Via Coduro 1
+    [ShippingCountry] => IT
+    [ShippingCity] => Fidenza
+    [ShippingTown] => PR
+    [ShippingZipCode] => 43036
+    [ShippingPhone] => 3792441104
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Salvatore Di Padova
+    [BillingEmail] => dipadovafederico7@gmail.com
+    [BillingAddress] => Via Coduro 1
+    [BillingCountry] => IT
+    [BillingCity] => Fidenza
+    [BillingTown] => PR
+    [BillingZipCode] => 43036
+    [BillingPhone] => 3792441104
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

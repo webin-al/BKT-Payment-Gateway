@@ -1,0 +1,254 @@
+DATE: Saturday 2nd of October 2021 04:35:34 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133662230
+    [TransactionDate] => 02.10.2021 19:35:32
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 208543_384
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 112.50
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/384/?key=wc_order_E3NkUu0qH51dw
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/384/?key=wc_order_E3NkUu0qH51dw
+    [PayerTxnId] => MjAyMTEwMDIxOTM0MDE2Mzc2ODg=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBEAAAyeB2AAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => 6XoFEhDuSPJUiD6ocMlfJK8ALp0=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.00167700 1633192389
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => MAYARA MARQUIORI ROSSE
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => H98173
+    [HostRefNum] => 127518856431
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/384/?key=wc_order_E3NkUu0qH51dw
+    [ErrorData] => 
+    [BatchNo] => 27
+    [VoidDate] => 
+    [CardMask] => 534413******0035
+    [ReqId] => 24580506
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211002
+    [SysDate] => 20211002
+    [F11] => 856431
+    [F37] => 127518856431
+    [RRN] => 127518856431
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 49642
+    [BankingElapsedTime] => 1355
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 15
+    [MpiElapsedTime] => 89459
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/384/?key=wc_order_E3NkUu0qH51dw
+    [RequestClientIp] => 37.117.191.92
+    [ResponseRnd] => PF637688001324428137
+    [ResponseHash] => pSsmDYj6Y8AjvmqFgmKv3huqVhM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Igor Fernandes Menezes
+    [ShippingEmail] => igorfmenezes32@gmail.com
+    [ShippingAddress] => Via Fossaggera 24
+    [ShippingCountry] => IT
+    [ShippingCity] => Treviso
+    [ShippingTown] => TV
+    [ShippingZipCode] => 31100
+    [ShippingPhone] => 3886461269
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Fernandes
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Igor Fernandes Menezes
+    [BillingEmail] => igorfmenezes32@gmail.com
+    [BillingAddress] => Via Fossaggera 24
+    [BillingCountry] => IT
+    [BillingCity] => Treviso
+    [BillingTown] => TV
+    [BillingZipCode] => 31100
+    [BillingPhone] => 3886461269
+    [BillingNationalId] => 
+    [BillingCompanyName] => Fernandes
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Sunday 3rd of October 2021 10:57:04 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133662230
+    [TransactionDate] => 02.10.2021 19:35:32
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 208543_384
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 112.50
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/384/?key=wc_order_E3NkUu0qH51dw
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/384/?key=wc_order_E3NkUu0qH51dw
+    [PayerTxnId] => MjAyMTEwMDIxOTM0MDE2Mzc2ODg=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBEAAAyeB2AAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => 6XoFEhDuSPJUiD6ocMlfJK8ALp0=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.00167700 1633192389
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => MAYARA MARQUIORI ROSSE
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => H98173
+    [HostRefNum] => 127518856431
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/384/?key=wc_order_E3NkUu0qH51dw
+    [ErrorData] => 
+    [BatchNo] => 27
+    [VoidDate] => 
+    [CardMask] => 534413******0035
+    [ReqId] => 24580506
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211002
+    [SysDate] => 20211002
+    [F11] => 856431
+    [F37] => 127518856431
+    [RRN] => 127518856431
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 49642
+    [BankingElapsedTime] => 1355
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 15
+    [MpiElapsedTime] => 89459
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/384/?key=wc_order_E3NkUu0qH51dw
+    [RequestClientIp] => 37.117.191.92
+    [ResponseRnd] => PF637688001324428137
+    [ResponseHash] => pSsmDYj6Y8AjvmqFgmKv3huqVhM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Igor Fernandes Menezes
+    [ShippingEmail] => igorfmenezes32@gmail.com
+    [ShippingAddress] => Via Fossaggera 24
+    [ShippingCountry] => IT
+    [ShippingCity] => Treviso
+    [ShippingTown] => TV
+    [ShippingZipCode] => 31100
+    [ShippingPhone] => 3886461269
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Fernandes
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Igor Fernandes Menezes
+    [BillingEmail] => igorfmenezes32@gmail.com
+    [BillingAddress] => Via Fossaggera 24
+    [BillingCountry] => IT
+    [BillingCity] => Treviso
+    [BillingTown] => TV
+    [BillingZipCode] => 31100
+    [BillingPhone] => 3886461269
+    [BillingNationalId] => 
+    [BillingCompanyName] => Fernandes
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

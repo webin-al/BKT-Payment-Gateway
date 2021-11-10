@@ -1,0 +1,127 @@
+DATE: Tuesday 19th of October 2021 10:19:18 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000134540058
+    [TransactionDate] => 19.10.2021 13:19:16
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 230186_484
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 1480.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/484/?key=wc_order_g70MFyUcgBTMK
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/484/?key=wc_order_g70MFyUcgBTMK
+    [PayerTxnId] => MjAyMTEwMTkxMzE4MDI2Mzc3MDI=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCDEpd4YQARQAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => VhwYXZLvWltbOmFXNPzjjp+/pr8=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.28196200 1634638671
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => LUCA GIOACCHINO SANNA
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Approved
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => I7WVSF
+    [HostRefNum] => 129212950761
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/484/?key=wc_order_g70MFyUcgBTMK
+    [ErrorData] => 
+    [BatchNo] => 44
+    [VoidDate] => 
+    [CardMask] => 529133******0617
+    [ReqId] => 24674836
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211019
+    [SysDate] => 20211019
+    [F11] => 950761
+    [F37] => 129212950761
+    [RRN] => 129212950761
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 8772
+    [BankingElapsedTime] => 2717
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 12
+    [MpiElapsedTime] => 71673
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 95.107.169.122
+    [ResponseRnd] => PF637702463567734841
+    [ResponseHash] => rButunh3btbInwe0IamdGrzUarE=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Luca Gioacchino Sanna
+    [ShippingEmail] => ferluca80@gmail.com
+    [ShippingAddress] => Viale Fulvio Testi, 216
+    [ShippingCountry] => IT
+    [ShippingCity] => Milano
+    [ShippingTown] => MI
+    [ShippingZipCode] => 20126
+    [ShippingPhone] => +39 388 154 5809
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Sos Luca ale
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Luca Gioacchino Sanna
+    [BillingEmail] => ferluca80@gmail.com
+    [BillingAddress] => Viale Fulvio Testi, 216
+    [BillingCountry] => IT
+    [BillingCity] => Milano
+    [BillingTown] => MI
+    [BillingZipCode] => 20126
+    [BillingPhone] => +39 388 154 5809
+    [BillingNationalId] => 
+    [BillingCompanyName] => Sos Luca ale
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

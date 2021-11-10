@@ -1,0 +1,127 @@
+DATE: Wednesday 15th of September 2021 11:08:40 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000132842562
+    [TransactionDate] => 15.09.2021 14:08:38
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 57608_317
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 50.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/317/?key=wc_order_VtSRqEksaXwzw
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/317/?key=wc_order_VtSRqEksaXwzw
+    [PayerTxnId] => MjAyMTA5MTUxNDA4MjE2Mzc2NzM=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCDEkaSc2B4YAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => dlcSwlU+dKB78RjuaVPQ4DXB664=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.45138700 1631703990
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => LUIZ ROGERIO BARBOSA
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => NV5YE1
+    [HostRefNum] => 125813763860
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/317/?key=wc_order_VtSRqEksaXwzw
+    [ErrorData] => 
+    [BatchNo] => 14
+    [VoidDate] => 
+    [CardMask] => 535584******9123
+    [ReqId] => 24487935
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210915
+    [SysDate] => 20210915
+    [F11] => 763860
+    [F37] => 125813763860
+    [RRN] => 125813763860
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 49271
+    [BankingElapsedTime] => 1477
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 10
+    [MpiElapsedTime] => 15346
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 87.4.37.136
+    [ResponseRnd] => PF637673117185106655
+    [ResponseHash] => rdT62DAINxR1fk2u+hYv8MEcy8U=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Luiz Barbosa
+    [ShippingEmail] => fanchinluizrog@gmail.com
+    [ShippingAddress] => Via Carlo Alberto, 58
+    [ShippingCountry] => IT
+    [ShippingCity] => Moniga Del Garda
+    [ShippingTown] => BS
+    [ShippingZipCode] => 25080
+    [ShippingPhone] => +393331942338
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Luiz
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Luiz Barbosa
+    [BillingEmail] => fanchinluizrog@gmail.com
+    [BillingAddress] => Via Carlo Alberto, 58
+    [BillingCountry] => IT
+    [BillingCity] => Moniga Del Garda
+    [BillingTown] => BS
+    [BillingZipCode] => 25080
+    [BillingPhone] => +393331942338
+    [BillingNationalId] => 
+    [BillingCompanyName] => Luiz
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

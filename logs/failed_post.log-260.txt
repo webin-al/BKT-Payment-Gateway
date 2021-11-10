@@ -1,0 +1,126 @@
+DATE: Friday 13th of August 2021 06:51:22 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000099434779
+    [TransactionDate] => 13.08.2021 09:51:19
+    [MbrId] => 9
+    [MerchantID] => 000000009251392
+    [OrderId] => 253386_260
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 25.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/260/?key=wc_order_YUWoFb1CT1ySd
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/260/?key=wc_order_YUWoFb1CT1ySd
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => GY6wxR0TGJASZKhu+Ck/c04RtYI=
+    [TerminalID] => 00021937
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.51993800 1628837381
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 792
+    [MrcName] => TEST MERCHANT 1
+    [MerchantHomeUrl] => https://www.bkt.com.tr
+    [CardHolderName] => SADENI BKT
+    [IrcDet] => Request CardBrand Error
+    [IrcCode] => MR07
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => Request CardBrand Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR07
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/260/?key=wc_order_YUWoFb1CT1ySd
+    [ErrorData] => 
+    [BatchNo] => 1009
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 624020
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210813
+    [SysDate] => 20210813
+    [F11] => 935144
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 73355
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 10.216.3.93
+    [ResponseRnd] => PF637644450762933645
+    [ResponseHash] => THFwyFoX0nSkqjequQHGC1sP1Gg=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Sadeni BKT
+    [ShippingEmail] => shysaj@bkt.com.al
+    [ShippingAddress] => Ibrahim Rugova 1
+    [ShippingCountry] => AL
+    [ShippingCity] => Tirane
+    [ShippingTown] => Tirana
+    [ShippingZipCode] => 1001
+    [ShippingPhone] => +355698804010
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Sadeni BKT
+    [BillingEmail] => shysaj@bkt.com.al
+    [BillingAddress] => Ibrahim Rugova 1
+    [BillingCountry] => AL
+    [BillingCity] => Tirane
+    [BillingTown] => Tirana
+    [BillingZipCode] => 1001
+    [BillingPhone] => +355698804010
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

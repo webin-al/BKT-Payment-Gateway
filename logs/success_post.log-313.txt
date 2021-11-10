@@ -1,0 +1,127 @@
+DATE: Tuesday 14th of September 2021 07:34:51 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000132794002
+    [TransactionDate] => 14.09.2021 22:34:50
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 259386_313
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 500.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/313/?key=wc_order_lvJJbxg6qrG7L
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/313/?key=wc_order_lvJJbxg6qrG7L
+    [PayerTxnId] => MjAyMTA5MTQyMjM0MDc2Mzc2NzI=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBASG6YVBZMAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => IEYqdUXCOhneq5/Xekm82qWZops=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.89910200 1631647996
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => GRUPPO H2O
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => T10128
+    [HostRefNum] => 125721760021
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/313/?key=wc_order_lvJJbxg6qrG7L
+    [ErrorData] => 
+    [BatchNo] => 13
+    [VoidDate] => 
+    [CardMask] => 522675******7004
+    [ReqId] => 24484096
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210914
+    [SysDate] => 20210914
+    [F11] => 760021
+    [F37] => 125721760021
+    [RRN] => 125721760021
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 20380
+    [BankingElapsedTime] => 1278
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 9
+    [MpiElapsedTime] => 40788
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 37.161.26.173
+    [ResponseRnd] => PF637672556900540716
+    [ResponseHash] => WAPrnejoXnTcxz9leK2aTwkgHTg=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Pierino Castiglia
+    [ShippingEmail] => gruppo.h2o.impianti@gmail.com
+    [ShippingAddress] => via Seriola 30
+    [ShippingCountry] => IT
+    [ShippingCity] => OSPITALETTO
+    [ShippingTown] => BS
+    [ShippingZipCode] => 25035
+    [ShippingPhone] => 3425852920
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => gruppo h2o
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Pierino Castiglia
+    [BillingEmail] => gruppo.h2o.impianti@gmail.com
+    [BillingAddress] => via Seriola 30
+    [BillingCountry] => IT
+    [BillingCity] => OSPITALETTO
+    [BillingTown] => BS
+    [BillingZipCode] => 25035
+    [BillingPhone] => 3425852920
+    [BillingNationalId] => 
+    [BillingCompanyName] => gruppo h2o
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

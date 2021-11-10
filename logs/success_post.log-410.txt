@@ -1,0 +1,127 @@
+DATE: Friday 8th of October 2021 09:45:37 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133992663
+    [TransactionDate] => 09.10.2021 00:45:35
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 132214_410
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 25.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/410/?key=wc_order_s785sYWQcqiAa
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/410/?key=wc_order_s785sYWQcqiAa
+    [PayerTxnId] => MjAyMTEwMDkwMDQ0MjM2Mzc2OTM=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBEAABESCQAAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => x2x4LBVi2bjULBZV2wUdacRU9TE=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.48413600 1633729330
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => PETROS SOURRIS
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => B37109
+    [HostRefNum] => 128223892950
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/410/?key=wc_order_s785sYWQcqiAa
+    [ErrorData] => 
+    [BatchNo] => 34
+    [VoidDate] => 
+    [CardMask] => 541868******4029
+    [ReqId] => 24617025
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211009
+    [SysDate] => 20211009
+    [F11] => 892950
+    [F37] => 128223892950
+    [RRN] => 128223892950
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 100246
+    [BankingElapsedTime] => 1353
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 10
+    [MpiElapsedTime] => 70731
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.30.101.13
+    [ResponseRnd] => PF637693371349271703
+    [ResponseHash] => CRDhbKmGs9zTpDOCnKSSxsT3Dbo=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Petros Sourris
+    [ShippingEmail] => fabbroexpress@gmail.com
+    [ShippingAddress] => Laghetto 7
+    [ShippingCountry] => IT
+    [ShippingCity] => Fino Mornasco
+    [ShippingTown] => CO
+    [ShippingZipCode] => 22073
+    [ShippingPhone] => 3347412376
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Petros Sourris
+    [BillingEmail] => fabbroexpress@gmail.com
+    [BillingAddress] => Laghetto 7
+    [BillingCountry] => IT
+    [BillingCity] => Fino Mornasco
+    [BillingTown] => CO
+    [BillingZipCode] => 22073
+    [BillingPhone] => 3347412376
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

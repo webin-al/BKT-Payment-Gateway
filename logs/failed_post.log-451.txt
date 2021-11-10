@@ -1,0 +1,127 @@
+DATE: Wednesday 13th of October 2021 05:31:05 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000134233537
+    [TransactionDate] => 13.10.2021 20:31:05
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 94422_451
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 190.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/451/?key=wc_order_tFyJkhORY6E53
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/451/?key=wc_order_tFyJkhORY6E53
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => 0XjUx62MXJOV9e8JPuJsZoHeSlw=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.83772300 1634146210
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => ROBERTO ANTONIONI
+    [HasCardHolderName] => False
+    [IrcDet] => Request CardBrand Error
+    [IrcCode] => MR07
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => Request CardBrand Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR07
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/451/?key=wc_order_tFyJkhORY6E53
+    [ErrorData] => 
+    [BatchNo] => 38
+    [VoidDate] => 
+    [CardMask] => 533317*******9833
+    [ReqId] => 24641077
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211013
+    [SysDate] => 20211013
+    [F11] => 917002
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 48389
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 7
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 109.52.244.166
+    [ResponseRnd] => PF637697538638891377
+    [ResponseHash] => O93gLSLWtHh6TP+746sQKiArMFM=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Roberto ANTONIONI
+    [ShippingEmail] => modenaimpresa@gmail.com
+    [ShippingAddress] => Via Gramsci
+    [ShippingCountry] => IT
+    [ShippingCity] => Modena
+    [ShippingTown] => MO
+    [ShippingZipCode] => 41121
+    [ShippingPhone] => 3396313003
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Ditta individuale di Roberto Antonioni
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Roberto ANTONIONI
+    [BillingEmail] => modenaimpresa@gmail.com
+    [BillingAddress] => Via Gramsci
+    [BillingCountry] => IT
+    [BillingCity] => Modena
+    [BillingTown] => MO
+    [BillingZipCode] => 41121
+    [BillingPhone] => 3396313003
+    [BillingNationalId] => 
+    [BillingCompanyName] => Ditta individuale di Roberto Antonioni
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

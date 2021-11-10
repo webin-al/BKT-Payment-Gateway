@@ -1,0 +1,122 @@
+DATE: Monday 25th of October 2021 10:33:45 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 26.10.2021 01:33:42
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 99460_517
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 75.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/517/?key=wc_order_3qzvVMEq4hqX4
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/517/?key=wc_order_3qzvVMEq4hqX4
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => FfBfY3jOaTnqEn7m2dCyBKF+Rjc=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.79912000 1635200951
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/517/?key=wc_order_3qzvVMEq4hqX4
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/517/?key=wc_order_3qzvVMEq4hqX4
+    [RequestClientIp] => 62.211.84.232
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Luiz Barbosa
+    [ShippingEmail] => fanchinluizrog@gmail.com
+    [ShippingAddress] => Via Carlo Alberto, 58 
+    [ShippingCountry] => IT
+    [ShippingCity] => Moniga Del Garda
+    [ShippingTown] => BS
+    [ShippingZipCode] => 25080
+    [ShippingPhone] => +393331942338
+    [ShippingCompanyName] => Luiz
+    [BillingNameSurname] => Luiz Barbosa
+    [BillingEmail] => fanchinluizrog@gmail.com
+    [BillingAddress] => Via Carlo Alberto, 58 
+    [BillingCountry] => IT
+    [BillingCity] => Moniga Del Garda
+    [BillingTown] => BS
+    [BillingZipCode] => 25080
+    [BillingPhone] => +393331942338
+    [BillingCompanyName] => Luiz
+    [__VIEWSTATE] => WQBIBD2sdporiV8Bcd6dzRN3RpnsqBPPlm1UHBZ3zfi5tVE+FWwkO3JhqdvDG21JWASlBht3MdmWWYvT+Z70thhMjsezTtGxuy0NBy20ar+94zgBjrnoZ94xeex5p3NrDOYjXH01nwK3cdYrBBSNDbELJqhEQL92fezZf4onFbNkMP5AnvyzZ3PLX85w4QqwrdNmft8JGPg0bhI2HGZnjF1nFz47cw8UeClMVBj0g6Ok2eWnX2FBL+Mp3gtV9T0DE5kJup2xtBY62Fb0xmvSsD3+sUnVqOqJNR0rmHblwu6V0cXarDg0pJ++fjrOZt49n/OmlTC8cDPAhBUnFqBaK/QLnzdJgVAVfZaWyYWKA9IptRnr7oYaK1VxRRCBXBUzMH/+GTPuCOGCYoY5njF6sUygm+0uOzLoHGM3K9mwQTCHV3mFG4ljT7tUQWHPgwbbrjm70DOTjOTrl7S7vysnJu1pp8umB0Qq9+zkPlKSHU7kD4dXgJsLAHSxheILEMh59lr42KkesO9PE5ry43tIUc/ay2pmcxyAVxfMfj2MrhQHAvrkpUz8q9aF7Blp9NWW5E7UpI4TIoNhzG8q8/GMNVZIUKmvRPCKHw5Zyr39XmLXH+exBiRAd+lIQOzAK/dmYLR+wDnHX3xxT7DBge0BUG8/OENoP/1gkIC7uha1CvvK+5+3cEnCKrVhYZnGdr8VbCVCLTsX3BfUX3WUL4VbVlnGQoRRM3ptgWUMRWGzVmOsMjA19JR8U9fprfD+Q7v9RLMIgf0QH12kyMqsDTFJF+85ej15iPlow78IAcepN0npwOU6fNJeu98PIMjfvU+dR4+m4L9MQWsY1tSEPXnhiqg1UNw=
+)
+
+-------------------------------------------------------

@@ -1,0 +1,126 @@
+DATE: Monday 30th of August 2021 08:43:08 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000131940155
+    [TransactionDate] => 30.08.2021 11:43:07
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 87754_287
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 110.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/287/?key=wc_order_ZIuZcTAkzVtoM
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/287/?key=wc_order_ZIuZcTAkzVtoM
+    [PayerTxnId] => MjAyMTA4MzAxMTQyMzY2Mzc2NTk=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBQAABZzAJYAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => 09hGXWqs3lVSKAmZ21SLfC9EkBY=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.77617900 1630312892
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => TYSHCHENKO 
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 668142
+    [HostRefNum] => 124210669420
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/287/?key=wc_order_ZIuZcTAkzVtoM
+    [ErrorData] => 
+    [BatchNo] => 6
+    [VoidDate] => 
+    [CardMask] => 533317******0820
+    [ReqId] => 24393495
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210830
+    [SysDate] => 20210830
+    [F11] => 669420
+    [F37] => 124210669420
+    [RRN] => 124210669420
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 58027
+    [BankingElapsedTime] => 1389
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 14
+    [MpiElapsedTime] => 29415
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 93.42.28.110
+    [ResponseRnd] => PF637659205872855465
+    [ResponseHash] => TR/XkUJZEivPHi5MgRKkAd0TDUo=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Domenico Ristagno
+    [ShippingEmail] => romisasconcorezzo@gmail.com
+    [ShippingAddress] => Via BRODOLINI 4
+    [ShippingCountry] => IT
+    [ShippingCity] => Concorezzo
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20083
+    [ShippingPhone] => 3387227083
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Domenico Ristagno
+    [BillingEmail] => romisasconcorezzo@gmail.com
+    [BillingAddress] => Via BRODOLINI 4
+    [BillingCountry] => IT
+    [BillingCity] => Concorezzo
+    [BillingTown] => MB
+    [BillingZipCode] => 20083
+    [BillingPhone] => 3387227083
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

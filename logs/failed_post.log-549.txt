@@ -1,0 +1,367 @@
+DATE: Tuesday 2nd of November 2021 11:17:46 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000135269845
+    [TransactionDate] => 02.11.2021 14:17:44
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 152652_549
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 190.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/549/?key=wc_order_UQz2qNf5xz9Xd
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [PayerTxnId] => MjAyMTExMDIxNDEyMjI2Mzc3MTQ=
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => pteD408rpMooTmACA9PFD8KsdPM=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.89575300 1635851466
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => BERGAMINI
+    [HasCardHolderName] => False
+    [IrcDet] => 3D Secure Authorize Error
+    [IrcCode] => MR15
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => 3D Secure Authorize Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR15
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [ErrorData] => 
+    [BatchNo] => 57
+    [VoidDate] => 
+    [CardMask] => 533317******4188
+    [ReqId] => 24740946
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211102
+    [SysDate] => 20211102
+    [F11] => 16871
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 70251
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 6
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [RequestClientIp] => 80.183.6.240
+    [ResponseRnd] => PF637714591414775912
+    [ResponseHash] => 4WgjdbxhSZOQQPT9is+g+S5wq5o=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Gianluca Bergamini
+    [ShippingEmail] => berservicefabbro@gmail.com
+    [ShippingAddress] => Via serafino calindri 62
+    [ShippingCountry] => IT
+    [ShippingCity] => Bologna
+    [ShippingTown] => BO
+    [ShippingZipCode] => 40068
+    [ShippingPhone] => 3357815561
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Gianluca Bergamini
+    [BillingEmail] => berservicefabbro@gmail.com
+    [BillingAddress] => Via serafino calindri 62
+    [BillingCountry] => IT
+    [BillingCity] => Bologna
+    [BillingTown] => BO
+    [BillingZipCode] => 40068
+    [BillingPhone] => 3357815561
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
+DATE: Tuesday 2nd of November 2021 11:56:54 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 02.11.2021 14:56:49
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 285641_549
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 190.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/549/?key=wc_order_UQz2qNf5xz9Xd
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => 5gFMHL03WMM+Wz80pZ0NiZmhUEU=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.99566300 1635851866
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [RequestClientIp] => 80.183.6.240
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Gianluca Bergamini
+    [ShippingEmail] => berservicefabbro@gmail.com
+    [ShippingAddress] => Via serafino calindri 62 
+    [ShippingCountry] => IT
+    [ShippingCity] => Bologna
+    [ShippingTown] => BO
+    [ShippingZipCode] => 40068
+    [ShippingPhone] => 3357815561
+    [BillingNameSurname] => Gianluca Bergamini
+    [BillingEmail] => berservicefabbro@gmail.com
+    [BillingAddress] => Via serafino calindri 62 
+    [BillingCountry] => IT
+    [BillingCity] => Bologna
+    [BillingTown] => BO
+    [BillingZipCode] => 40068
+    [BillingPhone] => 3357815561
+    [__VIEWSTATE] => N5UAeK7lzgEz1fABAejc/E9mTQDHl0C2q3jQVJEe9rODe9F3w6fZFGSUlv3ueGKdDPiVF07TPqkl83L28O0srHb8tjT87ufsWmLbhne9fDxcrpeBxW7+b7jPdiPPvQ/zF6JUCVu9MknSktYMBj2k5+eYtpIb1wE+Lt2GVdo8kLuCBLfnph+LU4b3kSruinhq8CG6LDEDdZIssZXfIWSuw8heJnSYJBdyCaQ9yDYw0ENLkN+IcsJ1zJvTMSy8Avo+ZNQWCm0aH4lemURoPav4Y71e6SCQXJJZOfiLz8ZV+r4c+XhK+R8DnUBK+tuBBz39ePm8mfnlZrRXKI18VzPoQdXQmQ8IqBedhN80vMbAma1F6wd/EjNDto+QQQ6ASi5dneTNcwjQhTd5JzUfvqy+I27/sVEN3HJx6g2c2ZiGKofiOyh4p1ZNFH30Krj/902p29s25nxr6JWskbn2qS8CY+dwTMPlWuB5ciamSSkY/aWc/3gPE9VC9uyShYy65Skdvnb5c+SZeLQYc4a1VTi3BIZPT01uqbT1RpHrE8oArwXfK77G4dDS2UUGgeb0/sa1+1FtgSmrdk3D7AXvPV+PsctlGrijMwh0AfSVhBgU+vsVwXIfFl+GyVb7Bb2d7iTSgqreA5tgDfxaVMuquiLHxN9f60vZl9O7+1eH/qKnvdS8hJN+PQ3PW/WrIXixXm5+4dn5VA4S86HkSL44Hkj5M0tGlBqrkmNPx1XD9c66woSmLlqIYI7jUAu7yPvOm7NqfRMnAtZp3nSPNA22z1JfRC+wKseSiB2ziIxr+K1xNPAPXBBKeqtGahutp48XdBgKTKO8UQ==
+)
+
+-------------------------------------------------------
+DATE: Tuesday 2nd of November 2021 12:02:20 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 02.11.2021 14:56:49
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 285641_549
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 190.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/549/?key=wc_order_UQz2qNf5xz9Xd
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => 5gFMHL03WMM+Wz80pZ0NiZmhUEU=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.99566300 1635851866
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/549/?key=wc_order_UQz2qNf5xz9Xd
+    [RequestClientIp] => 80.183.6.240
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Gianluca Bergamini
+    [ShippingEmail] => berservicefabbro@gmail.com
+    [ShippingAddress] => Via serafino calindri 62 
+    [ShippingCountry] => IT
+    [ShippingCity] => Bologna
+    [ShippingTown] => BO
+    [ShippingZipCode] => 40068
+    [ShippingPhone] => 3357815561
+    [BillingNameSurname] => Gianluca Bergamini
+    [BillingEmail] => berservicefabbro@gmail.com
+    [BillingAddress] => Via serafino calindri 62 
+    [BillingCountry] => IT
+    [BillingCity] => Bologna
+    [BillingTown] => BO
+    [BillingZipCode] => 40068
+    [BillingPhone] => 3357815561
+    [__VIEWSTATE] => N5UAeK7lzgEz1fABAejc/E9mTQDHl0C2q3jQVJEe9rODe9F3w6fZFGSUlv3ueGKdDPiVF07TPqkl83L28O0srHb8tjT87ufsWmLbhne9fDxcrpeBxW7+b7jPdiPPvQ/zF6JUCVu9MknSktYMBj2k5+eYtpIb1wE+Lt2GVdo8kLuCBLfnph+LU4b3kSruinhq8CG6LDEDdZIssZXfIWSuw8heJnSYJBdyCaQ9yDYw0ENLkN+IcsJ1zJvTMSy8Avo+ZNQWCm0aH4lemURoPav4Y71e6SCQXJJZOfiLz8ZV+r4c+XhK+R8DnUBK+tuBBz39ePm8mfnlZrRXKI18VzPoQdXQmQ8IqBedhN80vMbAma1F6wd/EjNDto+QQQ6ASi5dneTNcwjQhTd5JzUfvqy+I27/sVEN3HJx6g2c2ZiGKofiOyh4p1ZNFH30Krj/902p29s25nxr6JWskbn2qS8CY+dwTMPlWuB5ciamSSkY/aWc/3gPE9VC9uyShYy65Skdvnb5c+SZeLQYc4a1VTi3BIZPT01uqbT1RpHrE8oArwXfK77G4dDS2UUGgeb0/sa1+1FtgSmrdk3D7AXvPV+PsctlGrijMwh0AfSVhBgU+vsVwXIfFl+GyVb7Bb2d7iTSgqreA5tgDfxaVMuquiLHxN9f60vZl9O7+1eH/qKnvdS8hJN+PQ3PW/WrIXixXm5+4dn5VA4S86HkSL44Hkj5M0tGlBqrkmNPx1XD9c66woSmLlqIYI7jUAu7yPvOm7NqfRMnAtZp3nSPNA22z1JfRC+wKseSiB2ziIxr+K1xNPAPXBBKeqtGahutp48XdBgKTKO8UQ==
+)
+
+-------------------------------------------------------

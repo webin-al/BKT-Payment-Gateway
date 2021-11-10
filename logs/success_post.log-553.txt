@@ -1,0 +1,127 @@
+DATE: Tuesday 2nd of November 2021 03:54:58 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000135270472
+    [TransactionDate] => 02.11.2021 18:54:56
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 247336_553
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 510.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/553/?key=wc_order_Fg2UeLFyPRwgJ
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/553/?key=wc_order_Fg2UeLFyPRwgJ
+    [PayerTxnId] => MjAyMTExMDIxODU0MzE2Mzc3MTQ=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBEAABEkBHUAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => TudxsRa2yUDY0/vLHOQNqs2/8kI=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.42215200 1635868389
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => YLENIA SCATTINO
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Approved
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 260895
+    [HostRefNum] => 130616017789
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/553/?key=wc_order_Fg2UeLFyPRwgJ
+    [ErrorData] => Name: ShippingCity Value : Trezzo sull\'Adda Name: BillingCity Value : Trezzo sull\'Adda
+    [BatchNo] => 57
+    [VoidDate] => 
+    [CardMask] => 537572******6632
+    [ReqId] => 24741863
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211102
+    [SysDate] => 20211102
+    [F11] => 17789
+    [F37] => 130616017789
+    [RRN] => 130616017789
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 73462
+    [BankingElapsedTime] => 2263
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 12
+    [MpiElapsedTime] => 22658
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 37.160.39.27
+    [ResponseRnd] => PF637714760963728288
+    [ResponseHash] => T4Il4WfP4Q8k6qTpw0rVvWqEt+M=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => ylenia scattino
+    [ShippingEmail] => yes.directinfo@gmail.com
+    [ShippingAddress] => Via volta 4
+    [ShippingCountry] => IT
+    [ShippingCity] => Trezzo sull/Adda
+    [ShippingTown] => MI
+    [ShippingZipCode] => 20056
+    [ShippingPhone] => 3519974556
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Y&S srl
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => ylenia scattino
+    [BillingEmail] => yes.directinfo@gmail.com
+    [BillingAddress] => Via volta 4
+    [BillingCountry] => IT
+    [BillingCity] => Trezzo sull/Adda
+    [BillingTown] => MI
+    [BillingZipCode] => 20056
+    [BillingPhone] => 3519974556
+    [BillingNationalId] => 
+    [BillingCompanyName] => Y&S srl
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

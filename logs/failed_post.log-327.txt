@@ -1,0 +1,122 @@
+DATE: Wednesday 15th of September 2021 08:49:01 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 15.09.2021 23:48:59
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 34483_327
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 259.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/327/?key=wc_order_rdu2UMGOPWBNI
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/327/?key=wc_order_rdu2UMGOPWBNI
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => GowAQ17OTehuMdH8yhq7/2yIE+4=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.67620100 1631738663
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/327/?key=wc_order_rdu2UMGOPWBNI
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.34.129.151
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Daniele Vitalu
+    [ShippingEmail] => studioaxer@yahoo.it
+    [ShippingAddress] => Oberdan 9 
+    [ShippingCountry] => IT
+    [ShippingCity] => Lissone
+    [ShippingTown] => MB
+    [ShippingZipCode] => 20850
+    [ShippingPhone] => 3457229914
+    [ShippingCompanyName] => Axersrl
+    [BillingNameSurname] => Daniele Vitalu
+    [BillingEmail] => studioaxer@yahoo.it
+    [BillingAddress] => Oberdan 9 
+    [BillingCountry] => IT
+    [BillingCity] => Lissone
+    [BillingTown] => MB
+    [BillingZipCode] => 20850
+    [BillingPhone] => 3457229914
+    [BillingCompanyName] => Axersrl
+    [__VIEWSTATE] => JRCIUFqejcNdswYun6ZmvbE6VxMNRmztBzktIxdUTXv8sH8rg3TmZuMR+BGrVfN4SSpjw2grI5rra2VYEhS6cifH3z/5ifsLqj7DQfh5d0j451IQEPwKjyOqARDLxvKmPtZXku99NijXAxFFGst9NPV0bDlG2ZjCz0TFv8n+ttAb4K4P7iMeRDEm4zhUQ4OEVq+/oTGY9MmlmSnI8GGQrttasIUvCUQGgzHYZtUwS07sWFPfMwAiV7Ij7AmycM6N7iVPO3pPlQkTa4eQ33kwbpFxHPmQ3YcmKnalKuezuLw56RbesFPVQ/z8+GbC3Ep8f3+Jm//4J4Sg9lfo3z6IumqlicRw3C68C4QXSN7UjO1McW+Z9uZ9t9dhiQzC5k6R5jWqIaIZH5csFNDxNPeECuCN5H+OGStd1w44F0LPxAALGRp1dnnep4Rb9qj5r68rtXHntYU/WtCLvFQlTS5Mlu2xWkaJoxr/RWWgNXGdGxU/Xe7rGOy1N/1B25OwZdKfsaIcj48q5kmoj8XHUT+TSU6jJjXpUdVSKvEf6t4Dyg3QGxwPUFGBL5iMrcMapf5SOy7EnMa7JUZp+1WoqoBoFResGpcZ6ZamlNenS1VywAJt0vAQJl9J0knub8/O4N0Los4FzW8nGthcSL2bLzUraSBZ0J4cvExW7moPAcha7Kk5+UR47g5SqGt3Or7KdHbMZYY5LltRrEjsK3NUuI990A5UwyDf6cEivQyrgHAjH7Ocfy0HYXe36GxAQGCCpY8f2ZvZmNFOjD7vCu7mBKT2l4IBv/Z7i+fns0jqH1HNFiY=
+)
+
+-------------------------------------------------------

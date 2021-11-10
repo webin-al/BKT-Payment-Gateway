@@ -1,0 +1,127 @@
+DATE: Thursday 28th of October 2021 09:20:44 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000135019621
+    [TransactionDate] => 28.10.2021 12:20:41
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 108172_525
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 120.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/525/?key=wc_order_0ELxvuWjtfaFU
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/525/?key=wc_order_0ELxvuWjtfaFU
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => SutBQN45skBy/S9VMPD1K5XHo0s=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.06081900 1635412776
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => JUAN CARLOS OCHOA JIMENEZ
+    [HasCardHolderName] => False
+    [IrcDet] => Unsupported 3D Card
+    [IrcCode] => MR3D
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => Approved
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Success
+    [AuthCode] => 687687
+    [HostRefNum] => 130110996235
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/525/?key=wc_order_0ELxvuWjtfaFU
+    [ErrorData] => 
+    [BatchNo] => 52
+    [VoidDate] => 
+    [CardMask] => 533317******0131
+    [ReqId] => 24720310
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20211028
+    [SysDate] => 20211028
+    [F11] => 996235
+    [F37] => 130110996235
+    [RRN] => 130110996235
+    [IsRepeatTxn] => 
+    [CavvResult] => N
+    [VposElapsedTime] => 55309
+    [BankingElapsedTime] => 1621
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 16
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 87.2.133.146
+    [ResponseRnd] => PF637710204412622676
+    [ResponseHash] => ePaOSqcVPp3LaGoYLfkzujZp5xQ=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Juan carlos Ochoa jimenez
+    [ShippingEmail] => juancarlosochoa86@yahoo.it
+    [ShippingAddress] => Via conegliano 5 Appartamento
+    [ShippingCountry] => IT
+    [ShippingCity] => Milano
+    [ShippingTown] => MI
+    [ShippingZipCode] => 20131
+    [ShippingPhone] => 3275625757
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => C.o.service di Juan Carlos Ochoa jimenez
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Juan carlos Ochoa jimenez
+    [BillingEmail] => juancarlosochoa86@yahoo.it
+    [BillingAddress] => Via conegliano 5 Appartamento
+    [BillingCountry] => IT
+    [BillingCity] => Milano
+    [BillingTown] => MI
+    [BillingZipCode] => 20131
+    [BillingPhone] => 3275625757
+    [BillingNationalId] => 
+    [BillingCompanyName] => C.o.service di Juan Carlos Ochoa jimenez
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

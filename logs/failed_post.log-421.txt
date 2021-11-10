@@ -1,0 +1,122 @@
+DATE: Monday 11th of October 2021 11:16:08 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 11.10.2021 14:16:04
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 234850_421
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 100.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/421/?key=wc_order_THpGWO3D93mX4
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/421/?key=wc_order_THpGWO3D93mX4
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => LbJHpvXU3quAtRibZZNatQZH6SU=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.45106200 1633950299
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/421/?key=wc_order_THpGWO3D93mX4
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.34.6.105
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => abdelillah sakrimi
+    [ShippingEmail] => interventore.sakrimi@gmail.com
+    [ShippingAddress] => via dei fornaciai 3 
+    [ShippingCountry] => IT
+    [ShippingCity] => cremona
+    [ShippingTown] => CR
+    [ShippingZipCode] => 26100
+    [ShippingPhone] => 3209145031
+    [ShippingCompanyName] => sakrimi T.F
+    [BillingNameSurname] => abdelillah sakrimi
+    [BillingEmail] => interventore.sakrimi@gmail.com
+    [BillingAddress] => via dei fornaciai 3 
+    [BillingCountry] => IT
+    [BillingCity] => cremona
+    [BillingTown] => CR
+    [BillingZipCode] => 26100
+    [BillingPhone] => 3209145031
+    [BillingCompanyName] => sakrimi T.F
+    [__VIEWSTATE] => 9y+3T09L5dYKAmd3ho2KYexe3odvagkTYEHqQtwPLeBlQIlY8PPSz6jz3w82EHDVDgRvNtLEFqc7yjkhAM6uP6Dyn/A9n5/KZu97oz0Pm4ZwLtmQmGdT52InQE5VkBVIx78hHpCfixxF7kYqdPOljnwYhtUiobqyGbixjsxcg5zHqE44EpWt8T5x2SG8it35St4+ImXQEwYwjjru4CclT58ZTW1mCt4xWQmb6Wv9a3Ma7eRB5rmdIxVu5s49DjunrRl4X6DSMJJ9CdSlLraP3t4alyosFOQZWssayb/kPDt5pG61I5+6VNVB06jNEoRC04uPtvSAr75TGqh9Q1LSw6+jLsc2kwOcPePALPg/In6z7ayVLZthkMKVRr/LqkJwK9wYt7gDsj+6yiLe2GGfOvrxfoCyaZS9ep5u5RxNLrWA1TyZy0P4sNoF8TMO1TDraVVN4IBsSu/gWEPkmP88JdMCsUrOkSR7rICzTMC3thY7wKEjztauNVeiVj32KoC0F0se0YHBzWM/DEinPt9LN1LA7yLjAgE2HwK7FlG39Pc/ukjAs+74gmrKUL3nIDW5ayVy9R4FuwqhNPmBlu57OYi+eLArpBqoN9Iw+F/OEZ6SUZ2BHUQ0F+mLw5lhVzngu8WJwCuDdH/8jqLLHAc49ewh2FpQkjNJll56z8ae4d9KLj3BfgRwglMqz1YxRI7CoTG8VAB1GvvdthE0WKeli2PHHdyGB9vQL+t3Bsz6LZcp4zDEuL7L/hfuJ9A2fnu2Do1llbOBEFhRgNMOorJnacSLFIjwgiAtqUpU3Ri8/nwXeuh8nPMKK7vgxtT5LfZ1JMLbJsBZiSLndZOAqGoWxqYawU4=
+)
+
+-------------------------------------------------------

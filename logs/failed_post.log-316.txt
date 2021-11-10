@@ -1,0 +1,127 @@
+DATE: Wednesday 15th of September 2021 11:00:15 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000132842453
+    [TransactionDate] => 15.09.2021 14:00:14
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 258665_316
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,4,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 245.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/316/?key=wc_order_8Mv9o12MlUXUR
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/316/?key=wc_order_8Mv9o12MlUXUR
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => 5R6xfVXTI3G7YNXO9U2HxXyqMqI=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.71649300 1631703458
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => POSTEPAY EVOLUTION 
+    [HasCardHolderName] => False
+    [IrcDet] => Request CardBrand Error
+    [IrcCode] => MR07
+    [Version] => 1.0.2
+    [TxnStatus] => P
+    [CavvAlg] => 
+    [ParesVerified] => false
+    [ParesSyntaxOk] => false
+    [ErrMsg] => Request CardBrand Error
+    [VendorDet] => 
+    [D3Stat] => N
+    [3DStatus] => -1
+    [TxnResult] => Failed
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => MR07
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/316/?key=wc_order_8Mv9o12MlUXUR
+    [ErrorData] => 
+    [BatchNo] => 14
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 24487904
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210915
+    [SysDate] => 20210915
+    [F11] => 763829
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 130011
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/checkout/order-pay/316/?key=wc_order_8Mv9o12MlUXUR
+    [RequestClientIp] => 5.90.109.220
+    [ResponseRnd] => PF637673112139188204
+    [ResponseHash] => Madh2nD81gd+tDjKWEqOhQdWoFY=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Fabio Gibotta
+    [ShippingEmail] => fabio.gibotta086@gimail.com
+    [ShippingAddress] => Via ubertina
+    [ShippingCountry] => IT
+    [ShippingCity] => Forli
+    [ShippingTown] => FC
+    [ShippingZipCode] => 47121
+    [ShippingPhone] => 3498254576
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => 
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Fabio Gibotta
+    [BillingEmail] => fabio.gibotta086@gimail.com
+    [BillingAddress] => Via ubertina
+    [BillingCountry] => IT
+    [BillingCity] => Forli
+    [BillingTown] => FC
+    [BillingZipCode] => 47121
+    [BillingPhone] => 3498254576
+    [BillingNationalId] => 
+    [BillingCompanyName] => 
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------

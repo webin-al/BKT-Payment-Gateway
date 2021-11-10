@@ -1,0 +1,120 @@
+DATE: Thursday 7th of October 2021 05:47:43 PM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 0
+    [TransactionDate] => 07.10.2021 20:47:41
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 264567_406
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 145.00
+    [Exponent] => 
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/406/?key=wc_order_YF6XuG3NZbzAL
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/406/?key=wc_order_YF6XuG3NZbzAL
+    [PayerTxnId] => 
+    [PayerAuthenticationCode] => 
+    [Eci] => 
+    [MD] => 
+    [Hash] => N09pSVmQYgfQeI62m1IHBnj3NRY=
+    [TerminalID] => 
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => 
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.98543600 1633628689
+    [AlphaCode] => 
+    [Ecommerce] => 1
+    [MrcCountryCode] => 
+    [MrcName] => 
+    [MerchantHomeUrl] => 
+    [CardHolderName] => 
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 
+    [TxnStatus] => 
+    [CavvAlg] => 
+    [ParesVerified] => 
+    [ParesSyntaxOk] => 
+    [ErrMsg] => Order must be unique
+    [VendorDet] => 
+    [D3Stat] => 
+    [3DStatus] => -1
+    [TxnResult] => 
+    [AuthCode] => 
+    [HostRefNum] => 
+    [ProcReturnCode] => 101310
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-pay/406/?key=wc_order_YF6XuG3NZbzAL
+    [ErrorData] => 
+    [BatchNo] => 0
+    [VoidDate] => 
+    [CardMask] => 
+    [ReqId] => 0
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 0
+    [SysDate] => 0
+    [F11] => 0
+    [F37] => 
+    [RRN] => 
+    [IsRepeatTxn] => 
+    [CavvResult] => 
+    [VposElapsedTime] => 0
+    [BankingElapsedTime] => 0
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 0
+    [MpiElapsedTime] => 0
+    [hasOrderId] => False
+    [TemplateType] => 1
+    [HasAddressCount] => True
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => 
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => 
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.82.116.56
+    [ResponseRnd] => 
+    [ResponseHash] => 
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Petrica Gheoca
+    [ShippingEmail] => petricagheoca@gmail.com
+    [ShippingAddress] => Lusore 
+    [ShippingCountry] => IT
+    [ShippingCity] => Mirano
+    [ShippingTown] => VE
+    [ShippingZipCode] => 30035
+    [ShippingPhone] => 3661460461
+    [BillingNameSurname] => Petrica Gheoca
+    [BillingEmail] => petricagheoca@gmail.com
+    [BillingAddress] => Lusore 
+    [BillingCountry] => IT
+    [BillingCity] => Mirano
+    [BillingTown] => VE
+    [BillingZipCode] => 30035
+    [BillingPhone] => 3661460461
+    [__VIEWSTATE] => pigPAiqbPjydvd3I0latOUY7vDlBHktlkSegcZS6lKrIbR/qoub5bU4vP8Ul4wgzC5g9Xv32y+n5au77yZUt37Qa2F3eUyzlZtKV+xW1yZdQL78xLF74ErJTBe9GhRXcdu5TXHRrgRqlTeYPG8NPxDCMdbYv+3DWwvkHGiOqSHvYZ/5guUQkgP1FJ2H/pk43U/M5L1DgXu5qVGbjm51ggyNQLTTtOs3veA7MxkJiwzNtfU+Zsqz4f8jGOeG56UAH7GF8iNnOtMii7vFvOTGvDJLYQrdgyXgIzDpXlB8BRFZEjDgjj2RftF18sxCzQciFsqL5KTzkPDmfKCVDu/jlWvlaurAHTOpyLormykMWalFTgvH6PfOcsYowUUQnxQw2gfgbAn70BhcD6qOtkbq4dVTunREweG/Li5Pb/MGMDvXdVZCeQfNdJnLCxki/81yzgvDKndlorVT5B3MgM2FCsNqUP5/4/DDTBpsGRCk77khvlVp3P3dWNqdU07uUwxWx7HUZSBJnqpMy9M+FPP8zUEF3xn+O8stUM9xSyiHBRaRvHQJf7FoO7cTQPWldaNnZSGOoKsMf5rYM0pqqjEfq3vnWBMtjP/ctoqYKnRzqXC8KSWtUNprJb62G8GYHq7nUHQJRQdVaJfz6m2jnrRfTObfw9QveTvI7T9+7WzhMDhCRCIQiWIlTZp/yvea5lR3soLIw5tuBTFT2vMSU50CqckmQw+1qH4x1+/lFkqIkPmcVc9U/FmE1h5TT/Q7BmkIvRzRb8yo2Y+jnl0yAR1b68w==
+)
+
+-------------------------------------------------------

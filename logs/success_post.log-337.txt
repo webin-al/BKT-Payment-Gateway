@@ -1,0 +1,127 @@
+DATE: Tuesday 21st of September 2021 08:46:14 AM
+
+RAW POST: =	 Array
+(
+    [RequestGuid] => 1000000133130319
+    [TransactionDate] => 21.09.2021 11:46:10
+    [MbrId] => 9
+    [MerchantID] => 9258365
+    [OrderId] => 107030_337
+    [RequestIp] => 217.195.154.118
+    [RequestStat] => 1,2,3,10,5
+    [SecureType] => 3DHost
+    [PurchAmount] => 350.00
+    [Exponent] => 2
+    [Currency] => 978
+    [Description] => 
+    [OkUrl] => https://arthurinternationalcompany.com/checkout/order-received/337/?key=wc_order_zpW80reIPeTRT
+    [FailUrl] => https://arthurinternationalcompany.com/checkout/order-pay/337/?key=wc_order_zpW80reIPeTRT
+    [PayerTxnId] => MjAyMTA5MjExMTQ0MDE2Mzc2Nzg=
+    [PayerAuthenticationCode] => jAnhOGqYxXVJCBF4SlhRBTYAAAA=
+    [Eci] => 02
+    [MD] => 
+    [Hash] => 7WeDcz47xWPOqyulzTNHCcJ5ysE=
+    [TerminalID] => 00034791
+    [TxnType] => Auth
+    [OrgOrderId] => 
+    [SubMerchantCode] => 
+    [recur_frequency] => 
+    [recur_expiry] => 
+    [CardType] => M
+    [Lang] => EN
+    [BonusAmount] => 
+    [InstallmentCount] => 0
+    [Rnd] => 0.44247100 1632213680
+    [AlphaCode] => EUR
+    [Ecommerce] => 1
+    [MrcCountryCode] => 008
+    [MrcName] => ARTHUR INTERNATIONAL
+    [MerchantHomeUrl] => https://arthurinternationalcompany.com/
+    [CardHolderName] => FAUSTO BINA
+    [HasCardHolderName] => False
+    [IrcDet] => 
+    [IrcCode] => 
+    [Version] => 1.0.2
+    [TxnStatus] => Y
+    [CavvAlg] => 3
+    [ParesVerified] => true
+    [ParesSyntaxOk] => true
+    [ErrMsg] => Onaylandi
+    [VendorDet] => 
+    [D3Stat] => Y
+    [3DStatus] => 1
+    [TxnResult] => Success
+    [AuthCode] => 006390
+    [HostRefNum] => 126410797080
+    [ProcReturnCode] => 00
+    [ReturnUrl] => https://arthurinternationalcompany.com/checkout/order-received/337/?key=wc_order_zpW80reIPeTRT
+    [ErrorData] => 
+    [BatchNo] => 17
+    [VoidDate] => 
+    [CardMask] => 529593******3707
+    [ReqId] => 24521155
+    [UsedPoint] => 0
+    [SrcType] => VPO
+    [RefundedAmount] => 0
+    [RefundedPoint] => 0
+    [ReqDate] => 20210921
+    [SysDate] => 20210921
+    [F11] => 797080
+    [F37] => 126410797080
+    [RRN] => 126410797080
+    [IsRepeatTxn] => 
+    [CavvResult] => Y
+    [VposElapsedTime] => 144045
+    [BankingElapsedTime] => 3506
+    [SocketElapsedTime] => 0
+    [HsmElapsedTime] => 12
+    [MpiElapsedTime] => 125299
+    [hasOrderId] => False
+    [TemplateType] => 0
+    [HasAddressCount] => False
+    [IsPaymentFacilitator] => False
+    [MerchantCountryCode] => AL
+    [OrgTxnType] => 
+    [F11_ORG] => 0
+    [F12_ORG] => 0
+    [F13_ORG] => 
+    [F22_ORG] => 0
+    [F25_ORG] => 0
+    [MTI_ORG] => 0
+    [DsBrand] => M
+    [IntervalType] => 0
+    [IntervalDuration] => 0
+    [RepeatCount] => 0
+    [CustomerCode] => 
+    [RequestMerchantDomain] => https://arthurinternationalcompany.com/
+    [RequestClientIp] => 151.18.217.166
+    [ResponseRnd] => PF637678215700433586
+    [ResponseHash] => KT2NhToavzdMPddFRuyTrbaBqxk=
+    [OrgPreAuthAmount] => 0
+    [ShippingNameSurname] => Fausto angelo Bina
+    [ShippingEmail] => faustobina68@gmail.com
+    [ShippingAddress] => Giacomo matteotti
+    [ShippingCountry] => IT
+    [ShippingCity] => Travedona monate
+    [ShippingTown] => VA
+    [ShippingZipCode] => 21028
+    [ShippingPhone] => 3351491387
+    [ShippingNationalId] => 
+    [ShippingCompanyName] => Idraulica bina
+    [ShippingTaxNo] => 
+    [ShippingTaxOffice] => 
+    [BillingNameSurname] => Fausto angelo Bina
+    [BillingEmail] => faustobina68@gmail.com
+    [BillingAddress] => Giacomo matteotti
+    [BillingCountry] => IT
+    [BillingCity] => Travedona monate
+    [BillingTown] => VA
+    [BillingZipCode] => 21028
+    [BillingPhone] => 3351491387
+    [BillingNationalId] => 
+    [BillingCompanyName] => Idraulica bina
+    [BillingTaxNo] => 
+    [BillingTaxOffice] => 
+)
+
+-------------------------------------------------------
