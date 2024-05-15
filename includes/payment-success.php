@@ -246,8 +246,7 @@ $mpdf->WriteHTML(" not found ");
 $mpdf->Output($_SERVER['DOCUMENT_ROOT'].'/wp-content/plugins/bkt-payment-gateway/pdf-orders/order-'.$order_id.'.pdf', 'F');
 	
 	// send order details to BKT admin
-	// mail('eshkurta@bkt.com.al', 'Arthur Int. Payment log', $rawpost);
-
+	// mail('user@domain.com', 'Subject here', $rawpost);
 	} // end if
 
 }
